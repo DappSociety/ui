@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DF715005-9794-4106-A12D-7D8FDB63E053",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8775B55-059D-417F-98EF-7A48BB1D6F00",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A60F0BD1-B499-447F-A4CF-F01A2214677D",
+    "height": 21,
+    "width": 92,
+    "x": 239,
+    "y": 17
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tag",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "15FCF6AD-8479-4BFA-A6E9-614C3F47B90D_symbolID",
+      "value": "80AFFF7B-59A3-440A-9FD7-2B066370A426"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A16DC93-FE37-45B0-9E70-18553718AA2F_stringValue",
+      "value": "Delegate Tokens"
+    }
+  ],
+  "overrides": {
+    "15FCF6AD-8479-4BFA-A6E9-614C3F47B90D": {
+      "symbolID": "80AFFF7B-59A3-440A-9FD7-2B066370A426"
+    },
+    "4A16DC93-FE37-45B0-9E70-18553718AA2F": "Delegate Tokens"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "63950EC8-E17A-46A0-99CF-F0D9DA2A98C1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "23AF39BC-EED1-4CAE-A62B-28EAF9FB128C",
+  "verticalSpacing": 0
+}

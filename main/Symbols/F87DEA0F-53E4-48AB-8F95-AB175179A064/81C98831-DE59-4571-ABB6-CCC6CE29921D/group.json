@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "81C98831-DE59-4571-ABB6-CCC6CE29921D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 365,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "48C40F9F-FE51-4149-B4DD-3DF3C4F3BBFB"
+    },
+    {
+      "class": "group",
+      "id": "29FC2BCC-3D7E-4220-9CC5-1E1A52512600"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "370D94D4-E986-4793-8455-291F011EBBDB"
+    }
+  ],
+  "name": "Logomark White",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

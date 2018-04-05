@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E1211077-DFB8-4722-A8BD-1E7627299D75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DF2282A-2F31-4117-886E-E675C421A806",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08A3C420-9189-42A4-BC3D-C212001527E2",
+    "height": 31,
+    "width": 200,
+    "x": 426,
+    "y": 47
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Backer Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DED5CC0-07EE-41B6-A87C-ADE6587BF1FE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5B72F195-2777-4AFB-A6B9-C710C03A4DF7",
+  "verticalSpacing": 0
+}

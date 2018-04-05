@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "04B87F9B-EE0C-4141-8474-E07582346A8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69E2F131-5F3B-4F7E-9701-432E3C50D607",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D56886F-AF74-41A6-9194-04E5B9A4220F",
+    "height": 35,
+    "width": 280,
+    "x": 584,
+    "y": 47
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bidder 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5EBEDDD7-687C-4F0C-9887-2A38BABC8A30/15FCF6AD-8479-4BFA-A6E9-614C3F47B90D_symbolID",
+      "value": "B10B764E-3AB5-4655-B8C8-D6F78013802C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5EBEDDD7-687C-4F0C-9887-2A38BABC8A30/4A16DC93-FE37-45B0-9E70-18553718AA2F_stringValue",
+      "value": "Submitted"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C85E0DED-8CE1-43D3-AEEC-09D216ED2628/94E78E98-436C-4B58-961A-E5A70CCEDCB6_stringValue",
+      "value": "10/40 Votes"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C85E0DED-8CE1-43D3-AEEC-09D216ED2628/4A16DC93-FE37-45B0-9E70-18553718AA2F_stringValue",
+      "value": "10/40 Votes"
+    }
+  ],
+  "overrides": {
+    "5EBEDDD7-687C-4F0C-9887-2A38BABC8A30": {
+      "15FCF6AD-8479-4BFA-A6E9-614C3F47B90D": {
+        "symbolID": "B10B764E-3AB5-4655-B8C8-D6F78013802C"
+      },
+      "4A16DC93-FE37-45B0-9E70-18553718AA2F": "Submitted"
+    },
+    "C85E0DED-8CE1-43D3-AEEC-09D216ED2628": {
+      "4A16DC93-FE37-45B0-9E70-18553718AA2F": "10/40 Votes",
+      "94E78E98-436C-4B58-961A-E5A70CCEDCB6": "10/40 Votes"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA54C862-FBAC-4EB0-9182-11B4BC6E3F36",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "736513BE-5F98-44E8-B1A2-38C34E870176",
+  "verticalSpacing": 0
+}

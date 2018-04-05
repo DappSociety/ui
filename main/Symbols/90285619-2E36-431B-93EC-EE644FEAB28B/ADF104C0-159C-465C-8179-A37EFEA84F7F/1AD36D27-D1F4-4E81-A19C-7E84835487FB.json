@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1AD36D27-D1F4-4E81-A19C-7E84835487FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BEF01607-502B-4620-8F88-F92D8B80058E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3CD431AB-9926-4178-8E93-C27771799089",
+    "height": 13,
+    "width": 43,
+    "x": 424,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header/NavLink Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA43E865-5A42-4ADB-AF24-3D9D51D6738D",
+      "overrideName": "7B853771-6277-4247-9526-DFE7C9938530_stringValue",
+      "value": "WIKI"
+    }
+  ],
+  "overrides": {
+    "7B853771-6277-4247-9526-DFE7C9938530": "WIKI"
+  },
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B971C1AE-A4F8-4AC2-8CDA-299DF9A991A0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1B747DD3-5163-4F84-97E6-9974388CF582",
+  "verticalSpacing": 0
+}

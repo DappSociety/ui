@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "09956172-484D-491E-8AE3-4411C650FB98",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 451,
+  "do_objectID": "C93352E4-5C5F-40F1-B1C0-BD3304D68CAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C628C23B-87BF-4341-A401-9112AA9C459A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "669889B9-E628-48A8-8622-5714F23A1E73",
+    "height": 4,
+    "width": 100,
+    "x": 4261,
+    "y": 181
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8F660BEE-2E0D-486D-880B-B20414EBD575",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CDE94B65-6BB1-4C78-82A3-5B83A6B94E11"
+    }
+  ],
+  "name": "ProgressBar/75%",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97154CB5-9A12-48F3-929C-E2AC04216AAB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "52ABEBE8-A8D6-42C7-A03B-9D79D5D590D0",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E51DD9E3-FD2F-4CA2-8C66-2768B3B724FE",
+    "guides": [
+    ]
+  }
+}

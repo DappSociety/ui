@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DD450C37-8C2A-4310-8F9B-0F393B1E8613",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E3863AA-F718-45F9-AE15-6BB28D4AE588",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "896BE4A1-9173-477E-A0CA-21BF6EA61AB6",
+    "height": 48,
+    "width": 240,
+    "x": 120,
+    "y": 276
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms/Textarea",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "703488A7-A394-4B23-851C-ECA9F5E58D1C_stringValue",
+      "value": "Write a comment..."
+    }
+  ],
+  "overrides": {
+    "703488A7-A394-4B23-851C-ECA9F5E58D1C": "Write a comment..."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55D0623B-0B85-4EF8-90EE-B5485246DC18",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C7E863E2-F49C-4372-B645-7FAE69F256D6",
+  "verticalSpacing": 0
+}

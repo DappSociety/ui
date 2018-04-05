@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2C23AE77-3D75-42C6-91A1-16C0F5E57FDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C8C300E-3BA1-4207-9A2C-A114AAFB5A10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A046548-8F4D-4474-AC2B-31B880DB05E3",
+    "height": 21,
+    "width": 80,
+    "x": 0,
+    "y": 29
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Keyword 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "15FCF6AD-8479-4BFA-A6E9-614C3F47B90D_symbolID",
+      "value": "80AFFF7B-59A3-440A-9FD7-2B066370A426"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A16DC93-FE37-45B0-9E70-18553718AA2F_stringValue",
+      "value": "TRUFFLE"
+    }
+  ],
+  "overrides": {
+    "15FCF6AD-8479-4BFA-A6E9-614C3F47B90D": {
+      "symbolID": "80AFFF7B-59A3-440A-9FD7-2B066370A426"
+    },
+    "4A16DC93-FE37-45B0-9E70-18553718AA2F": "TRUFFLE"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4AE62B2-283B-4AD9-B107-82E811C6566A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "23AF39BC-EED1-4CAE-A62B-28EAF9FB128C",
+  "verticalSpacing": 0
+}
