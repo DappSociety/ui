@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6E063A7E-2965-443E-966D-9AC7FA07DA56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "00064617-F9B5-496F-8A13-E257DE377285",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "058E5EC5-ED6C-46FC-AA5B-C95623353C20",
+    "height": 40,
+    "width": 122,
+    "x": 102,
+    "y": 210
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/Button/Primary/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE0638F6-9EF0-4EE9-8BC3-8D3AD8C74C02",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "403F8DCA-A32A-4D60-A807-230FC88BDB9B",
+  "verticalSpacing": 0
+}
