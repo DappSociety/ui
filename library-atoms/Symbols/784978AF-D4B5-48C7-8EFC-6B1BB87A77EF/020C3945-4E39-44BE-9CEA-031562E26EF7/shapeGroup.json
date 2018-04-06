@@ -41,29 +41,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "do_objectID": "8450080E-B805-43EE-8BB2-53A34822AB81",
-    "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.3843137254901961,
-          "green": 0.3843137254901961,
-          "red": 0.3843137254901961
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
-    "miterLimit": 10,
-    "startDecorationType": 0
+    "sharedObjectID": "D379826F-9B15-4D14-8110-5E98005DC8E6"
   },
   "windingRule": 1
 }

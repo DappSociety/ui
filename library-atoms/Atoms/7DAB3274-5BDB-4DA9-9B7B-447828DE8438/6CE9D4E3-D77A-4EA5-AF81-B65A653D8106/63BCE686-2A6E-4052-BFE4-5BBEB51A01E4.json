@@ -27,8 +27,19 @@
   "name": "atom/text-input/tooltip",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B03D637-05FC-419D-A99D-3DA4519CAF3D",
+      "overrideName": "7FCB9B33-5ED4-4A2F-94B8-D6E581173F3B/2E8A9AC6-E789-4E1C-991B-0970F47BEE3E_symbolID",
+      "value": "DBC8649F-5872-4ED3-85C3-3831DC9CA422"
+    }
   ],
   "overrides": {
+    "7FCB9B33-5ED4-4A2F-94B8-D6E581173F3B": {
+      "2E8A9AC6-E789-4E1C-991B-0970F47BEE3E": {
+        "symbolID": "DBC8649F-5872-4ED3-85C3-3831DC9CA422"
+      }
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

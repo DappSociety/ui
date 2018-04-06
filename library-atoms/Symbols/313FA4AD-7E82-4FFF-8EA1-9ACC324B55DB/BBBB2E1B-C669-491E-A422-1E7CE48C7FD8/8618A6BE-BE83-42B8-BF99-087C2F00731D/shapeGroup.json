@@ -50,9 +50,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3828125,
-          "green": 0.3828125,
-          "red": 0.3828125
+          "blue": 1,
+          "green": 0.4853598837537384,
+          "red": 0.4382891414141414
         },
         "fillType": 0,
         "isEnabled": true,
@@ -63,6 +63,7 @@
       }
     ],
     "miterLimit": 10,
+    "sharedObjectID": "D379826F-9B15-4D14-8110-5E98005DC8E6",
     "startDecorationType": 0
   },
   "windingRule": 1

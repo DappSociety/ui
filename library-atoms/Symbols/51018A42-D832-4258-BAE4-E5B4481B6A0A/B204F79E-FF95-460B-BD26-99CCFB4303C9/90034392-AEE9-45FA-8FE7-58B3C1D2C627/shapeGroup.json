@@ -48,9 +48,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8313725490196079,
-          "green": 0.8313725490196079,
-          "red": 0.8313725490196079
+          "blue": 0.9254901960784314,
+          "green": 0.9254901960784314,
+          "red": 0.9254901960784314
         },
         "fillType": 0,
         "isEnabled": true,
@@ -60,6 +60,24 @@
     ],
     "do_objectID": "122D57B1-B723-44BD-B86D-E87B906F0667",
     "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980393,
+          "green": 0.9568627450980393,
+          "red": 0.9568627450980393
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startDecorationType": 0
   },

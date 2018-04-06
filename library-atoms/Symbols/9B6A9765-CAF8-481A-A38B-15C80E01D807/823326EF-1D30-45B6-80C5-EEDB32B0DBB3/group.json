@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "823326EF-1D30-45B6-80C5-EEDB32B0DBB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4151DFAE-CF47-44D7-B970-1009524DF0AA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C18F611A-3934-4268-A794-B942A1CCCB61",
+    "height": 40,
+    "width": 148,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "27BB2F80-916F-4763-8E65-27A068218353"
+    },
+    {
+      "class": "text",
+      "id": "1EC1030F-F1C8-4FE3-9A7C-DB7459F88E74"
+    },
+    {
+      "class": "group",
+      "id": "C397F148-2502-4E2C-B5B5-F0B6D4742194"
+    }
+  ],
+  "name": "atom/button/label/default",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31CDB4C7-8343-4D36-B2B0-2A02935E3493",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "E8DAE1B4-F62E-4BF1-94CF-D231B123CE1C",
+    "startDecorationType": 0
+  }
+}

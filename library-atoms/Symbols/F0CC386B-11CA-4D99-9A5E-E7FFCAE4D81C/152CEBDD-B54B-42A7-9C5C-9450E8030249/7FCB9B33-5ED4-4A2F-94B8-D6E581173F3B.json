@@ -27,17 +27,8 @@
   "name": "atom/icon/info",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "C2B9DB7A-9F3A-43EB-B8A4-C187A6398E5F",
-      "overrideName": "2E8A9AC6-E789-4E1C-991B-0970F47BEE3E_symbolID",
-      "value": "8EEFE949-30C2-4E16-92DA-4167B11F18C9"
-    }
   ],
   "overrides": {
-    "2E8A9AC6-E789-4E1C-991B-0970F47BEE3E": {
-      "symbolID": "8EEFE949-30C2-4E16-92DA-4167B11F18C9"
-    }
   },
   "resizingConstraint": 44,
   "resizingType": 0,

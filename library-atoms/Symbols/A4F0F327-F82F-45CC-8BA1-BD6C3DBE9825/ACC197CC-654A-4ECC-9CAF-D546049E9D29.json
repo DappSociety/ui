@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ACC197CC-654A-4ECC-9CAF-D546049E9D29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E31C4875-1ACC-4FAA-B087-4153EA19B15C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C5D10BE0-7104-4BF1-9781-59BEAED73744",
+    "height": 16,
+    "width": 16,
+    "x": 16,
+    "y": 12
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/Button-Label/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8868155A-ED5C-491E-8C4F-1D0D318952D9_symbolID",
+      "value": "F99F4035-1B7D-4EB6-985E-8081FBAFE33E"
+    }
+  ],
+  "overrides": {
+    "8868155A-ED5C-491E-8C4F-1D0D318952D9": {
+      "symbolID": "F99F4035-1B7D-4EB6-985E-8081FBAFE33E"
+    }
+  },
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.7272727272727273,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0491B8F4-E07C-43E8-8DC0-7BCBF2939BF0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.272727272727272,
+      "type": 0
+    },
+    "do_objectID": "2915214B-C4DD-476C-9281-7D3908751B9A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BBD7DF4D-20A0-41C3-B577-B8E268537FFA",
+  "verticalSpacing": 0
+}

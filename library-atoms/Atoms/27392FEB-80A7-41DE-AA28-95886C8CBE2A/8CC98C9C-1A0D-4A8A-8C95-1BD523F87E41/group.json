@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "do_objectID": "73FD6931-8E03-4A55-8C98-5E0A5B1DC0D3",
     "height": 250,
-    "width": 248,
+    "width": 250,
     "x": 775,
     "y": 100
   },
@@ -32,6 +32,22 @@
       "id": "6FAD0DD9-6772-4FE0-AF09-8409286FB18B"
     },
     {
+      "class": "symbolInstance",
+      "id": "6D65C933-381F-49CE-A79E-CDCDAA2E4F50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94CDFA28-C4EC-41FB-AF13-E157C8A03FDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19A4FE04-AA1E-4092-92EE-23B5E73659E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC045BDB-8B89-4F74-8EE4-E59CE940536B"
+    },
+    {
       "class": "text",
       "id": "83E810EB-483F-4D3C-AB00-DC59698A08D2"
     },
@@ -42,22 +58,6 @@
     {
       "class": "text",
       "id": "4F6AD295-0D21-4316-AF4B-74D4C77DDE1A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4CAEA975-0441-49ED-8392-10B0CDE0B616"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "50EF2E62-04B5-4F42-94FD-01F5EC6D1197"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7D2B20D9-7ECD-4C49-96E4-FC4EC4F80E3B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9E13BAD4-8452-41AC-9C45-FC73228A7DC6"
     }
   ],
   "name": "Label Button",
