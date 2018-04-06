@@ -24,13 +24,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom/icon/info",
-  "nameIsFixed": false,
+  "name": "icon",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 44,
+  "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,
   "scale": 0.8181818181818182,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 151,
+  "changeIdentifier": 197,
   "do_objectID": "24EE8A80-5402-4094-9A32-9E0E956302B2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 352
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,6 +47,10 @@
     {
       "class": "group",
       "id": "51FBEBDF-494F-4A35-92A4-2288FD120FF4"
+    },
+    {
+      "class": "text",
+      "id": "C2F354A6-278C-4CF8-8942-ADE3A0E00CC2"
     }
   ],
   "name": "atom/text-input/validation",

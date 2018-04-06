@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FF1779DC-0B71-4EBF-B57A-F4EF8578153D",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 193,
+  "do_objectID": "E5B7B275-078A-4BAF-AA0E-850F154D279E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "438DD556-1F04-4C4F-9177-0FBF709256BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE170979-50BA-464D-B620-62F486118407",
+    "height": 148,
+    "width": 300,
+    "x": 1675,
+    "y": 336
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "980F6723-CCDC-498C-AE89-F3589DCECB14",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "17DB3A60-A559-4F14-98B7-63FFF2879410"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4430A56-227F-4EF2-823E-F55C5CF06A95"
+    }
+  ],
+  "name": "atom/text-area/focus",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5936234-3DDB-4ECB-9F1A-7F211F1DE9A0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "51602F9E-0172-424B-9D27-EBDE3DCDE8EF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "61CB9FF0-89D3-44F3-AC0F-F27E74001DFC",
+    "guides": [
+    ]
+  }
+}

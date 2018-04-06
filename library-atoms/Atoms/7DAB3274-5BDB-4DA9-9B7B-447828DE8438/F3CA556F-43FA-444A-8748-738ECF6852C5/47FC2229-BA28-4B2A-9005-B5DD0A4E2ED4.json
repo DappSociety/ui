@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "47FC2229-BA28-4B2A-9005-B5DD0A4E2ED4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A69F94C-D25D-403D-9D08-4651B62B47C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77B0B87F-AB8F-47F6-BBEA-70F4076630CC",
+    "height": 148,
+    "width": 300,
+    "x": 119,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/text-area/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ACA0D182-6502-447B-956F-15884592805C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "51602F9E-0172-424B-9D27-EBDE3DCDE8EF",
+  "verticalSpacing": 0
+}
