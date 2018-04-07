@@ -38,13 +38,22 @@
       "_class": "overrideValue",
       "overrideName": "4A16DC93-FE37-45B0-9E70-18553718AA2F_stringValue",
       "value": "DAYS"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE4EB2BC-EFC2-4D9D-B110-1A3888A3805C",
+      "overrideName": "9A3000FA-C797-475E-992E-C307C348CBDE_symbolID",
+      "value": "EBFC53A1-C7B2-43D8-965A-3E7522B204CD"
     }
   ],
   "overrides": {
     "15FCF6AD-8479-4BFA-A6E9-614C3F47B90D": {
       "symbolID": "782AEE2B-B997-4838-887D-5BCEBD985167"
     },
-    "4A16DC93-FE37-45B0-9E70-18553718AA2F": "DAYS"
+    "4A16DC93-FE37-45B0-9E70-18553718AA2F": "DAYS",
+    "9A3000FA-C797-475E-992E-C307C348CBDE": {
+      "symbolID": "EBFC53A1-C7B2-43D8-965A-3E7522B204CD"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

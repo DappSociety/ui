@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 407,
+  "changeIdentifier": 1488,
   "do_objectID": "3D14AA27-933E-469D-9C7B-FD5CA7D650F0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +26,11 @@
     "do_objectID": "994E66F8-D8B6-40F2-B1C6-B155B13E56FD",
     "height": 4,
     "width": 100,
-    "x": 4261,
-    "y": 169
+    "x": 1778,
+    "y": 400
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,7 +50,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "C865B5B1-92B4-4D1E-BEC0-C88992A5DD32"
+      "id": "8CCB38B4-DC09-4A75-882E-EE327B659BC2"
     }
   ],
   "name": "ProgressBar/50%",

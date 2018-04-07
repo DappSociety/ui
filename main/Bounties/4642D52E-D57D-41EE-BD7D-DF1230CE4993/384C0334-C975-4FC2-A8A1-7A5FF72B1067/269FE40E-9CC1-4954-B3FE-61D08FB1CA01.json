@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0D311A23-3857-4159-A6E8-5EE6C18FAA0F",
-    "height": 261,
+    "height": 152,
     "width": 903,
     "x": 0,
     "y": 0
@@ -29,8 +29,17 @@
   "name": "Footer",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94A9B554-DF81-4117-BAA1-73A4CDC72999",
+      "overrideName": "6A43311C-49A4-4940-8BE2-A6E51666D38E_symbolID",
+      "value": ""
+    }
   ],
   "overrides": {
+    "6A43311C-49A4-4940-8BE2-A6E51666D38E": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

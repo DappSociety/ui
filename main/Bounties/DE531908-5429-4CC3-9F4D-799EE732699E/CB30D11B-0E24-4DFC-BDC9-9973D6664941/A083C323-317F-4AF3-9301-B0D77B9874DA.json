@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A083C323-317F-4AF3-9301-B0D77B9874DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 27,
+    "x": 261,
+    "y": 73
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/icon/social/trello",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "22CA2AE7-9D5E-40DD-8D4C-80D7AFD00262",
+      "overrideName": "44292B71-8BF3-4FBC-A126-5CAEAD77E926_symbolID",
+      "value": "80212587-172C-44B3-917F-B7AB413C89B3"
+    }
+  ],
+  "overrides": {
+    "44292B71-8BF3-4FBC-A126-5CAEAD77E926": {
+      "symbolID": "80212587-172C-44B3-917F-B7AB413C89B3"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8BD8E52E-3181-4CAF-9571-E2AB48059553",
+  "verticalSpacing": 0
+}
