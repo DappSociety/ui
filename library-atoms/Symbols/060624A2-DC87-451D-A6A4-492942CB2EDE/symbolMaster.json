@@ -4,15 +4,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "0AF6CC2C-AED8-45C5-ABD3-6691ECDA0B13",
+    "do_objectID": "46BC8CD7-052F-4188-AA89-CE10DEB7335A",
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2135,
-  "do_objectID": "813BCDFF-C3D4-4AC1-A358-8E8B8AE08077",
+  "changeIdentifier": 3139,
+  "do_objectID": "060624A2-DC87-451D-A6A4-492942CB2EDE",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "029C8E36-F01E-4AB7-BBE5-6F7C1039717C",
+    "do_objectID": "20505752-BABE-47A7-BB17-794508B34B83",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,18 +23,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E87EC546-879B-4C6F-AADD-BBE38617EFDC",
+    "do_objectID": "B04BCEC9-CBBC-4B60-B787-01EF3217F3C5",
     "height": 22,
     "width": 22,
     "x": 1416,
-    "y": 96
+    "y": 288
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "9F27CEF5-5454-46EC-B2A9-D6B4C4998829",
+    "do_objectID": "1B605454-AEB4-4377-A76F-C8883A6D3660",
     "guides": [
     ]
   },
@@ -50,14 +50,14 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "0B81A383-F982-46A4-9E98-406A549888E6"
+      "id": "2CBAB4AD-D633-4C08-8141-F5F3F2B4466A"
     },
     {
       "class": "symbolInstance",
-      "id": "08B5EDAB-06BA-417B-83EF-A28CB7BBFE60"
+      "id": "44292B71-8BF3-4FBC-A126-5CAEAD77E926"
     }
   ],
-  "name": "atom/icon/small-close",
+  "name": "atom/icon/social/trello",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -66,16 +66,16 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "47C4CBA1-C42D-4ABE-9BC3-88CCFF1EE8F5",
+    "do_objectID": "BE232591-5E4F-4485-9CCC-3D1B4220F7DD",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "88FA36B5-C420-40A5-82B6-7804D3C38CBE",
+  "symbolID": "E63F422D-D88C-4B8A-A203-E40B86ECF5FB",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0D6A857C-86C4-4909-A447-94B2D8224C06",
+    "do_objectID": "FF8DAC51-14D1-4A40-BF8B-C2B61C871AB5",
     "guides": [
     ]
   }
