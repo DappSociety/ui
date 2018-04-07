@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9B165725-3600-4C83-BD38-CAE078AED60B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B0CAAAD-5F6E-40EB-AF99-AC04953493E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8249FB47-4FD7-4D1E-8DBB-C84BC3DFA95D",
+    "height": 40,
+    "width": 125,
+    "x": 102,
+    "y": 70
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/button/icon/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4CF8FACE-BA46-4BA2-93D0-EAEEE338B2E1_stringValue",
+      "value": "Icon button"
+    }
+  ],
+  "overrides": {
+    "4CF8FACE-BA46-4BA2-93D0-EAEEE338B2E1": "Icon button"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9FC1D79D-6B97-4284-A05A-BC9208EBCE02",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "367AE974-8AD6-4EE4-AA2B-71900EFF77BC",
+  "verticalSpacing": 0
+}

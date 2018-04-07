@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A90A0C86-7D15-4B7E-B1A6-52523BC486CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "086BE96B-BCCD-4A0C-BECD-B3A6468FD4A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "174CCABC-C93D-42BB-8B0A-B5183F7E54A8",
+    "height": 180,
+    "width": 130,
+    "x": 580,
+    "y": 2009
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "styleguide/color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5BDEE436-AC99-4FFF-8956-66B57F7EA6B5",
+      "overrideName": "0B1B24A0-D82D-4F81-A6CF-3402158E535F_symbolID",
+      "value": "48B008E1-F45B-4232-9F92-FE89E1233204"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB37C34C-2498-4BDA-B99F-6AC1897CE1CE",
+      "overrideName": "C8968A7D-A23B-4FA5-BC82-3A2C1A59105F_stringValue",
+      "value": "brand-4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31207CE3-C309-4B33-A172-33E54398BD75",
+      "overrideName": "07B7DB49-6721-43BF-9573-0A0B673486D1_stringValue",
+      "value": "#CFD3FF"
+    }
+  ],
+  "overrides": {
+    "07B7DB49-6721-43BF-9573-0A0B673486D1": "#CFD3FF",
+    "0B1B24A0-D82D-4F81-A6CF-3402158E535F": {
+      "symbolID": "48B008E1-F45B-4232-9F92-FE89E1233204"
+    },
+    "C8968A7D-A23B-4FA5-BC82-3A2C1A59105F": "brand-4"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "891320DE-9291-446A-94F3-D16CC40EEFF9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "36222A69-9DA2-4908-AF91-1B2372A5C60B",
+  "verticalSpacing": 0
+}

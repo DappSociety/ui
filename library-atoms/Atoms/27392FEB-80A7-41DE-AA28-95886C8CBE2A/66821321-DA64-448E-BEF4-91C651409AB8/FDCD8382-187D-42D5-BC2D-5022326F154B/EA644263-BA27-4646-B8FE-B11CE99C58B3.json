@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EA644263-BA27-4646-B8FE-B11CE99C58B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A1F61F2-8907-48C2-B373-3249907E9D19",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8ACE7C1-AC5D-4A64-B1CA-A864A63198C8",
+    "height": 40,
+    "width": 113,
+    "x": 93,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/button/group/middle/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8ECA8966-9EDB-4664-BA6F-F878A9A35E43",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E6E88614-D51C-4990-A996-0D1CE053D3AD",
+  "verticalSpacing": 0
+}

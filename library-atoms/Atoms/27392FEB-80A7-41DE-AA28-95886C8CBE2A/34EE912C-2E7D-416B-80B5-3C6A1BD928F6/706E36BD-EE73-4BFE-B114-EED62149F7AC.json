@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "706E36BD-EE73-4BFE-B114-EED62149F7AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BDC77B8-7504-43FD-9803-B88AEFC2BE87",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "299C80D5-8FE0-4998-97F3-18EE3969FE25",
+    "height": 40,
+    "width": 138,
+    "x": 113,
+    "y": 140
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/Button/Secondary/Hover",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1149199C-B170-4234-99E3-761CE72F4C11",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5819BBBA-DEA3-457E-94F0-F3A5750A44CB",
+  "verticalSpacing": 0
+}

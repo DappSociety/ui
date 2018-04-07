@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8F2B0AFB-D16F-4533-8E2C-029FA8535F29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91AF865D-D105-4E4F-BEEC-293C9BF1CE85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2DEFC025-8081-451F-A22A-AA5CD515FD6F",
+    "height": 32,
+    "width": 32,
+    "x": 247,
+    "y": 3453
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/icon/new",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17396D7A-207B-4EBA-8ABF-6DDE23BE2212",
+      "overrideName": "70A5CDC6-F9CF-4B08-B31B-BC744C8BFCCB_symbolID",
+      "value": "E10CC7A7-8903-4A7F-B320-C1024636D91A"
+    }
+  ],
+  "overrides": {
+    "70A5CDC6-F9CF-4B08-B31B-BC744C8BFCCB": {
+      "symbolID": "E10CC7A7-8903-4A7F-B320-C1024636D91A"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.454545454545454,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DBBB5CBB-3A9C-4275-82E6-F2CADAB836B6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 14.54545454545454,
+      "type": 0
+    },
+    "do_objectID": "3B0A1701-2A72-4188-B166-4C6B598808F7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "66B7319C-C5F1-490D-9CEF-F7C60A6ABD72",
+  "verticalSpacing": 0
+}

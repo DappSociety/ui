@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "63BCE686-2A6E-4052-BFE4-5BBEB51A01E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 68,
+    "width": 200,
+    "x": 119,
+    "y": 508
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/text-input/tooltip",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B03D637-05FC-419D-A99D-3DA4519CAF3D",
+      "overrideName": "7FCB9B33-5ED4-4A2F-94B8-D6E581173F3B/2E8A9AC6-E789-4E1C-991B-0970F47BEE3E_symbolID",
+      "value": "DBC8649F-5872-4ED3-85C3-3831DC9CA422"
+    }
+  ],
+  "overrides": {
+    "7FCB9B33-5ED4-4A2F-94B8-D6E581173F3B": {
+      "2E8A9AC6-E789-4E1C-991B-0970F47BEE3E": {
+        "symbolID": "DBC8649F-5872-4ED3-85C3-3831DC9CA422"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1AEEB0C5-C5D4-4035-8BAF-7DE36ACA7EA2",
+  "verticalSpacing": 0
+}
