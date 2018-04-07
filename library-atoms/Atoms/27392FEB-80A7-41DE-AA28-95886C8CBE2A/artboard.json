@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 1839,
     "width": 1440,
     "x": 511,
     "y": -197
@@ -44,6 +44,10 @@
   "layers": [
     {
       "class": "group",
+      "id": "C6303784-7704-4B80-809B-9A17C480642C"
+    },
+    {
+      "class": "group",
       "id": "66821321-DA64-448E-BEF4-91C651409AB8"
     },
     {
@@ -61,6 +65,14 @@
     {
       "class": "group",
       "id": "4A553429-50A5-4F29-9B1F-56854BA7D3F3"
+    },
+    {
+      "class": "group",
+      "id": "60B5884A-0348-46FE-B5B3-E8102DA4C9A2"
+    },
+    {
+      "class": "group",
+      "id": "5BE9852A-F3C3-4BD1-8D5E-8F72FB1DE9BA"
     },
     {
       "class": "group",

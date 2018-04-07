@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 18,
-    "width": 18,
-    "x": 180,
+    "height": 16,
+    "width": 16,
+    "x": 181,
     "y": 2
   },
   "horizontalSpacing": 0,
@@ -33,7 +33,7 @@
   "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0.8181818181818182,
+  "scale": 0.7272727272727273,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -42,7 +42,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 8.181818181818182,
+      "radius": 7.272727272727272,
       "type": 0
     },
     "endDecorationType": 0,

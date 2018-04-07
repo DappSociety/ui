@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7CE9F75D-CDD8-4F76-95E1-5054FDB02118",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "768BDD17-7205-4150-A429-9983189361EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F79CAFB9-A251-4FE0-9795-5D1A194477CE",
+    "height": 40,
+    "width": 102,
+    "x": 102,
+    "y": 140
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/button/white/focus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B54E962-725A-4A06-A70A-0D971053EE18",
+      "overrideName": "CDDBC3B3-A3E6-438F-A85D-7D43AD5BABA5_stringValue",
+      "value": "Grey button"
+    }
+  ],
+  "overrides": {
+    "CDDBC3B3-A3E6-438F-A85D-7D43AD5BABA5": "Grey button"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B5865D7-093C-4772-AA19-2D3ABFC358EB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F539BB94-D829-4A0D-B040-8EB7642E125B",
+  "verticalSpacing": 0
+}

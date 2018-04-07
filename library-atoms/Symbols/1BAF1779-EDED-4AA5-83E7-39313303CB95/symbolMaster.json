@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 799,
+  "changeIdentifier": 808,
   "do_objectID": "1BAF1779-EDED-4AA5-83E7-39313303CB95",
   "exportOptions": {
     "_class": "exportOptions",
@@ -63,7 +63,7 @@
   ],
   "name": "atom/button/secondary/focus",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

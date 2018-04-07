@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E48F64C2-3E0E-4DC3-BBEB-719928655B36",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFE207D5-6F54-438E-9B2E-673BD16E001C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E49C873D-1F6D-4F1F-AA5D-98E38F83E55B",
+    "height": 180,
+    "width": 130,
+    "x": 100,
+    "y": 2429
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "styleguide/color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5BDEE436-AC99-4FFF-8956-66B57F7EA6B5",
+      "overrideName": "0B1B24A0-D82D-4F81-A6CF-3402158E535F_symbolID",
+      "value": "681224D9-B834-4D15-B13F-F6A91776883B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB37C34C-2498-4BDA-B99F-6AC1897CE1CE",
+      "overrideName": "C8968A7D-A23B-4FA5-BC82-3A2C1A59105F_stringValue",
+      "value": "red-1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31207CE3-C309-4B33-A172-33E54398BD75",
+      "overrideName": "07B7DB49-6721-43BF-9573-0A0B673486D1_stringValue",
+      "value": "#E71D32"
+    }
+  ],
+  "overrides": {
+    "07B7DB49-6721-43BF-9573-0A0B673486D1": "#E71D32",
+    "0B1B24A0-D82D-4F81-A6CF-3402158E535F": {
+      "symbolID": "681224D9-B834-4D15-B13F-F6A91776883B"
+    },
+    "C8968A7D-A23B-4FA5-BC82-3A2C1A59105F": "red-1"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F051F014-30FC-462A-BA04-5B4918D662A5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "36222A69-9DA2-4908-AF91-1B2372A5C60B",
+  "verticalSpacing": 0
+}
