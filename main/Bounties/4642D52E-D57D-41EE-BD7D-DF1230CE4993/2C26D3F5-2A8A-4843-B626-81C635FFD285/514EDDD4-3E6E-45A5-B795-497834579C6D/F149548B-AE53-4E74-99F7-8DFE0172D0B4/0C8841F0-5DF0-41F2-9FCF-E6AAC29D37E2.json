@@ -39,13 +39,22 @@
       "do_objectID": "8DDDA98C-E8D2-477A-9313-535E3D8571AE",
       "overrideName": "15FCF6AD-8479-4BFA-A6E9-614C3F47B90D_symbolID",
       "value": "B10B764E-3AB5-4655-B8C8-D6F78013802C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80F1FFCA-AD2E-4910-93D4-CF25C9EC55AC",
+      "overrideName": "9A3000FA-C797-475E-992E-C307C348CBDE_symbolID",
+      "value": "8855BF4B-7BFB-4137-A818-9CBB6F6E2E3C"
     }
   ],
   "overrides": {
     "15FCF6AD-8479-4BFA-A6E9-614C3F47B90D": {
       "symbolID": "B10B764E-3AB5-4655-B8C8-D6F78013802C"
     },
-    "4A16DC93-FE37-45B0-9E70-18553718AA2F": "BEGINNER"
+    "4A16DC93-FE37-45B0-9E70-18553718AA2F": "BEGINNER",
+    "9A3000FA-C797-475E-992E-C307C348CBDE": {
+      "symbolID": "8855BF4B-7BFB-4137-A818-9CBB6F6E2E3C"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

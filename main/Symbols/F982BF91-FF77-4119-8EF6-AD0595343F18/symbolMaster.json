@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 293,
+  "changeIdentifier": 1552,
   "do_objectID": "F982BF91-FF77-4119-8EF6-AD0595343F18",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 21,
     "width": 80,
-    "x": 1944,
-    "y": -60
+    "x": 1778,
+    "y": 111
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -50,7 +50,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "15FCF6AD-8479-4BFA-A6E9-614C3F47B90D"
+      "id": "9A3000FA-C797-475E-992E-C307C348CBDE"
     },
     {
       "class": "text",

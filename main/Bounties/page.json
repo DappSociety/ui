@@ -45,8 +45,24 @@
       "id": "4642D52E-D57D-41EE-BD7D-DF1230CE4993"
     },
     {
-      "class": "group",
-      "id": "2D5801D4-B721-4851-90C0-A6920ABBB7C0"
+      "class": "text",
+      "id": "A3B60B38-FAC6-4C4A-9B6B-E993A846D17B"
+    },
+    {
+      "class": "text",
+      "id": "C7ED6E11-39EA-4C4E-B06C-361B0033E9B4"
+    },
+    {
+      "class": "text",
+      "id": "1DC73862-E1DF-4A9F-B236-DFE48E98F2FF"
+    },
+    {
+      "class": "text",
+      "id": "09AE1CB3-4574-4FD8-BD85-590D7B485B27"
+    },
+    {
+      "class": "text",
+      "id": "9F71081E-34EE-4F55-ABA9-08FF2EB32F17"
     }
   ],
   "name": "Bounties",
