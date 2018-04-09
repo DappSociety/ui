@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "0A3684EC-E1F6-4CFD-B1C8-318520B1FCBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91B2A911-56F8-45BB-B515-5EBCFA24462B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "247E5D16-CA32-4A25-BC0C-8A35ED2D0E84",
+    "height": 169,
+    "width": 903,
+    "x": 0,
+    "y": 2800
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F06B0DB5-38F5-45CC-8847-03D32A91C9B3"
+    },
+    {
+      "class": "text",
+      "id": "90568D16-B33A-440A-ACDB-E224439C7FB4"
+    }
+  ],
+  "name": "Donate",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA20995B-D36F-44B8-A058-F1EF7438616D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
