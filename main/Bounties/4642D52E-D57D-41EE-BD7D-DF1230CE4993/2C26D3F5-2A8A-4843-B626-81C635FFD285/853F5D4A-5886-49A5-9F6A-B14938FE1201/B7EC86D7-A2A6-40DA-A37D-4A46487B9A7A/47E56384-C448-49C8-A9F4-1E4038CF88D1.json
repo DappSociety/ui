@@ -15,8 +15,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "14C259BE-860D-41DC-BCEF-43615DB1BDDD",
-    "height": 60,
-    "width": 114.8658229395286,
+    "height": 68,
+    "width": 118.4496124031008,
     "x": 0,
     "y": 0
   },
@@ -31,11 +31,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "EB6AB7BC-4EFD-4459-A0AB-50D700BCE743/7151DABB-D20D-4D27-87BE-91D66B08C163_stringValue",
-      "value": "Difficulty"
-    },
-    {
-      "_class": "overrideValue",
       "overrideName": "CC729E4D-C828-4946-B5C4-40D43384452A_stringValue",
       "value": "Deploy the Foo to the Bar"
     },
@@ -46,19 +41,22 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "8AA5DE40-B883-4F54-A44E-E04349C441FE/91712A77-9C9B-465D-A4E2-6CF1A52189EE_stringValue",
+      "do_objectID": "CD6F9486-E86A-4730-AA60-3A4F46A1015B",
+      "overrideName": "EB4A96A8-F826-4E9C-8C8E-88B9F369F053_stringValue",
       "value": "Details"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E2B1C93-C529-4730-8AD4-66961C7A3B9A",
+      "overrideName": "041A4BDF-99DA-4CFE-B841-4EDB1A3D29BC_stringValue",
+      "value": "Difficulty"
     }
   ],
   "overrides": {
+    "041A4BDF-99DA-4CFE-B841-4EDB1A3D29BC": "Difficulty",
     "6CFD5577-9D9C-4F84-A210-3DF5E493AFE7": "Task Title",
-    "8AA5DE40-B883-4F54-A44E-E04349C441FE": {
-      "91712A77-9C9B-465D-A4E2-6CF1A52189EE": "Details"
-    },
     "CC729E4D-C828-4946-B5C4-40D43384452A": "Deploy the Foo to the Bar",
-    "EB6AB7BC-4EFD-4459-A0AB-50D700BCE743": {
-      "7151DABB-D20D-4D27-87BE-91D66B08C163": "Difficulty"
-    }
+    "EB4A96A8-F826-4E9C-8C8E-88B9F369F053": "Details"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,6 +70,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "1F708972-AAB1-47FD-BBD2-DBA35F8A8A59",
+  "symbolID": "EA653568-1F0B-42A1-B508-D18A89821E87",
   "verticalSpacing": 0
 }

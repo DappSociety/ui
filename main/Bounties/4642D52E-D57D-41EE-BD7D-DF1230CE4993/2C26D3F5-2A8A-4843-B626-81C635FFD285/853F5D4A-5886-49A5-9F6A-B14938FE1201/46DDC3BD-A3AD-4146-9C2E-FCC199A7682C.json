@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "52AB0E60-7C40-42E6-A40D-2D3B6E9A8480",
-    "height": 60,
+    "height": 68,
     "width": 382,
     "x": 0,
     "y": 67
@@ -31,16 +31,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "3D0D9D28-77D2-427A-BF3A-066C09FAACD7/6EEA77DD-AE44-4981-806B-E1EE566009E5_stringValue",
-      "value": "Deploy the Foo to the Bar"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "E13F2699-33A1-476A-8FF4-597DEB9E6D3F/91712A77-9C9B-465D-A4E2-6CF1A52189EE_stringValue",
-      "value": "Task Title"
-    },
-    {
-      "_class": "overrideValue",
       "overrideName": "CC729E4D-C828-4946-B5C4-40D43384452A_stringValue",
       "value": "Deploy the Foo to the Bar"
     },
@@ -48,17 +38,34 @@
       "_class": "overrideValue",
       "overrideName": "6CFD5577-9D9C-4F84-A210-3DF5E493AFE7_stringValue",
       "value": "Task Title"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11B4CD3A-49C4-49BB-8264-957672B441A7",
+      "overrideName": "EB4A96A8-F826-4E9C-8C8E-88B9F369F053_stringValue",
+      "value": "Task Title"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDE4671B-9728-4830-A7B5-4CE10DB70148",
+      "overrideName": "041A4BDF-99DA-4CFE-B841-4EDB1A3D29BC_stringValue",
+      "value": "Deploy the Foo to the Bar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EB2F013C-E99F-446F-AB25-5A1BFD9995AB",
+      "overrideName": "1C79BF3C-8E0F-4056-966B-BE2683405D18_symbolID",
+      "value": ""
     }
   ],
   "overrides": {
-    "3D0D9D28-77D2-427A-BF3A-066C09FAACD7": {
-      "6EEA77DD-AE44-4981-806B-E1EE566009E5": "Deploy the Foo to the Bar"
+    "041A4BDF-99DA-4CFE-B841-4EDB1A3D29BC": "Deploy the Foo to the Bar",
+    "1C79BF3C-8E0F-4056-966B-BE2683405D18": {
+      "symbolID": ""
     },
     "6CFD5577-9D9C-4F84-A210-3DF5E493AFE7": "Task Title",
     "CC729E4D-C828-4946-B5C4-40D43384452A": "Deploy the Foo to the Bar",
-    "E13F2699-33A1-476A-8FF4-597DEB9E6D3F": {
-      "91712A77-9C9B-465D-A4E2-6CF1A52189EE": "Task Title"
-    }
+    "EB4A96A8-F826-4E9C-8C8E-88B9F369F053": "Task Title"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,6 +79,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "2AEF9BDD-9532-4F71-B2A1-A1B6B34C28AD",
+  "symbolID": "EA653568-1F0B-42A1-B508-D18A89821E87",
   "verticalSpacing": 0
 }

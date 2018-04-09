@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "585FD600-BCA2-4CDC-A271-346C034F4400",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "058A235D-832A-4685-9E2A-4C7107045BCD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D6DE7AE8-418A-4BFF-AB5F-445EF50A186A",
+    "height": 16,
+    "width": 15.9468438538206,
+    "x": 26.11295681063105,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "social-icons/twitter copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44234C03-35E2-4FD0-B68B-A8CB2C67DE15",
+      "overrideName": "356B458C-34FB-4F1F-964B-2614E7ADBCA3_symbolID",
+      "value": "B31788EA-7B44-443E-93DE-97B2F7DE3A47"
+    }
+  ],
+  "overrides": {
+    "356B458C-34FB-4F1F-964B-2614E7ADBCA3": {
+      "symbolID": "B31788EA-7B44-443E-93DE-97B2F7DE3A47"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14BD9E73-10B8-4D80-BDE4-37A6253266FB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1C010634-8EA9-4984-8C01-BA9F7555C49F",
+  "verticalSpacing": 0
+}

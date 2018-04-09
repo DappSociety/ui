@@ -1,0 +1,98 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.196078431372549,
+    "green": 0.196078431372549,
+    "red": 0.196078431372549
+  },
+  "changeIdentifier": 419,
+  "do_objectID": "5225F277-A024-48D5-B5CF-D2492021FE80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 118,
+    "x": 1928,
+    "y": 133
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "978E07F2-AFE3-4F1C-A7D8-7C4B3DA36C29"
+    },
+    {
+      "class": "text",
+      "id": "ACA3E87B-7C0C-4C09-8613-A700084194B4"
+    },
+    {
+      "class": "text",
+      "id": "BB38CC13-34AD-4620-9BB6-88A6C65FB026"
+    }
+  ],
+  "name": "Footer/Next",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EAA92C31-A1E4-424E-BE31-9C79E0E5852F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

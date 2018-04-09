@@ -25,7 +25,7 @@
     "do_objectID": "FDF404B6-BDA0-4968-81D6-80EAA137D4F9",
     "height": 1009,
     "width": 903,
-    "x": -1507,
+    "x": -1436,
     "y": -362
   },
   "grid": {
@@ -51,11 +51,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "4C5DD047-CA0B-4F91-8804-57AB645AA802"
+      "class": "symbolInstance",
+      "id": "F18B1668-1997-4DC1-B208-D2B14C23009A"
     },
     {
       "class": "group",

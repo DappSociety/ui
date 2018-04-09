@@ -29,12 +29,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "E269BB9E-FDDA-4763-BC62-3872CC20FBD0_stringValue",
+      "do_objectID": "0AE44301-750D-4FC3-B1A5-2217E832B73C",
+      "overrideName": "8DF3698A-94B9-4AC9-AF02-132BE96A3A6F_stringValue",
       "value": "Wiki / About"
     }
   ],
   "overrides": {
-    "E269BB9E-FDDA-4763-BC62-3872CC20FBD0": "Wiki / About"
+    "8DF3698A-94B9-4AC9-AF02-132BE96A3A6F": "Wiki / About"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,6 +48,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "9D7F1B5C-41EB-4D4A-8FB7-4FFF7108A697",
+  "symbolID": "874409C4-B74C-4ED9-A4A0-5991525BDFBD",
   "verticalSpacing": 0
 }

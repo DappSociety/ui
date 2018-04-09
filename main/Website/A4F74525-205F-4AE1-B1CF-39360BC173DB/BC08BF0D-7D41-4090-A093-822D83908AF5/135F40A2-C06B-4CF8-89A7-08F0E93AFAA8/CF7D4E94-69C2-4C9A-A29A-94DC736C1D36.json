@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CF7D4E94-69C2-4C9A-A29A-94DC736C1D36",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39.31034482758622,
+    "width": 140,
+    "x": 205,
+    "y": 119.8965517241379
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/button/secondary/default copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FE257DB7-2310-4B85-AA47-6926A27ECF07_stringValue",
+      "value": "Join Now"
+    }
+  ],
+  "overrides": {
+    "FE257DB7-2310-4B85-AA47-6926A27ECF07": "Join Now"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "561F1538-F2A2-4346-9499-C4987943DD6F",
+  "verticalSpacing": 0
+}

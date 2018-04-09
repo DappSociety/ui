@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "4A3B5AEC-8AE9-434F-BDE1-DE4E083649B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 348,
+    "width": 903,
+    "x": 0,
+    "y": 2237
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6120A64E-758D-4DA9-A9F0-7DB7745DFC0F"
+    },
+    {
+      "class": "text",
+      "id": "02804993-9EF2-4826-81BA-6C74DDBD6D99"
+    }
+  ],
+  "name": "Projects",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
