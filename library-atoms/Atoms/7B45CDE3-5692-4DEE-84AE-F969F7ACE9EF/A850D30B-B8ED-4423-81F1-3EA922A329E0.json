@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A850D30B-B8ED-4423-81F1-3EA922A329E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 32,
+    "x": 403,
+    "y": 4552
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/icon/social/twitter",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7AF46F0-A087-4772-A466-A7A969851A9D",
+      "overrideName": "BAC62402-B697-4CEF-88FA-E77C82797787_symbolID",
+      "value": "E10CC7A7-8903-4A7F-B320-C1024636D91A"
+    }
+  ],
+  "overrides": {
+    "BAC62402-B697-4CEF-88FA-E77C82797787": {
+      "symbolID": "E10CC7A7-8903-4A7F-B320-C1024636D91A"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.454545454545455,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 14.54545454545455,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "92A82334-2AD0-4CA1-B375-14329F2030DD",
+  "verticalSpacing": 0
+}

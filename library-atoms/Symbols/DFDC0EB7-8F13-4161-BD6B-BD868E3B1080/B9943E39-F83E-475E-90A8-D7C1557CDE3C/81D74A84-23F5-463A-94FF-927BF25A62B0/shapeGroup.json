@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 30,
     "width": 100,
     "x": 0,
     "y": 0
@@ -39,7 +39,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "57A4389B-BF50-47FF-8516-503E15B8D97B"
+    "sharedObjectID": "8BDBB4B1-0622-4985-9CBC-47ECA94F0B3D"
   },
   "windingRule": 1
 }

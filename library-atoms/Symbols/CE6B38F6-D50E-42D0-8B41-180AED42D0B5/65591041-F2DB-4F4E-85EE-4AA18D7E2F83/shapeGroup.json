@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C1FF3B4C-A94B-4EBC-BF8C-A1FFE61AAB30",
-    "height": 22,
-    "width": 22,
+    "height": 15,
+    "width": 15,
     "x": 0,
     "y": 0
   },
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -41,30 +41,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "do_objectID": "3864A05D-62DA-46ED-A70F-26A2CD67EB8A",
-    "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.9254901960784314,
-          "green": 0.9254901960784314,
-          "red": 0.9254901960784314
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
-    "miterLimit": 10,
-    "sharedObjectID": "323B6728-462B-448C-943D-54E6398F2B25",
-    "startDecorationType": 0
+    "sharedObjectID": "9E8E9944-2A6C-4DAF-9E24-7D52D3168481"
   },
   "windingRule": 1
 }

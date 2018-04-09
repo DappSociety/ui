@@ -27,8 +27,17 @@
   "name": "atom/text-input/hover",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B390ED39-BC0C-4919-ADC0-679A4F24BFC9",
+      "overrideName": "DF05F582-37F0-4BA7-9D17-605FD549323E_symbolID",
+      "value": ""
+    }
   ],
   "overrides": {
+    "DF05F582-37F0-4BA7-9D17-605FD549323E": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

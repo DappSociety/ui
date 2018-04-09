@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "042C2C4A-1321-4C83-BA92-BFD7F6F93117",
-    "height": 22,
-    "width": 22,
+    "height": 15,
+    "width": 15,
     "x": 0,
     "y": 0
   },
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -50,9 +50,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9568627450980393,
-          "green": 0.9568627450980393,
-          "red": 0.9568627450980393
+          "blue": 0.7803921568627451,
+          "green": 0.7803921568627451,
+          "red": 0.7803921568627451
         },
         "fillType": 0,
         "isEnabled": true,
@@ -63,7 +63,7 @@
       }
     ],
     "miterLimit": 10,
-    "sharedObjectID": "9E8E9944-2A6C-4DAF-9E24-7D52D3168481",
+    "sharedObjectID": "C0AA94B7-8E34-4355-A030-A82C062FA5BC",
     "startDecorationType": 0
   },
   "windingRule": 1
