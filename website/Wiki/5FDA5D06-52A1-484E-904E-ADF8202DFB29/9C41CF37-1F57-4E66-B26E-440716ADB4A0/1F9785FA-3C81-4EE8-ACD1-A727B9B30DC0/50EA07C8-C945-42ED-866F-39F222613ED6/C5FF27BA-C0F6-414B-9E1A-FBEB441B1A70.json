@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C5FF27BA-C0F6-414B-9E1A-FBEB441B1A70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EAFBEF7D-CFC1-4FCC-80FF-2B429EF212FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2AC4CB21-3770-4AD0-96B6-2AF22FA93D55",
+    "height": 16,
+    "width": 85,
+    "x": 13,
+    "y": 25
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SIdebar Link",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F0E4F0FC-EC86-44CF-AC48-7474FFD45177",
+      "overrideName": "69245BFF-AD36-4F5A-99EF-41C697048D1E_stringValue",
+      "value": "Edit on GitHub"
+    }
+  ],
+  "overrides": {
+    "69245BFF-AD36-4F5A-99EF-41C697048D1E": "Edit on GitHub"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "095BF97C-8564-491C-B34D-C7E2CA016C37",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E6BBCE8-8884-45CE-9FF8-236CD71689E3",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0A78DDFA-53DC-4FA2-BF5C-A05CF34259E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "775D9792-9BD1-45EE-8044-5CEDE16D1AF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E872E85-F122-4E42-B664-15B8B58A6CFE",
+    "height": 21,
+    "width": 80,
+    "x": 88,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Duratoin",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "15FCF6AD-8479-4BFA-A6E9-614C3F47B90D_symbolID",
+      "value": "782AEE2B-B997-4838-887D-5BCEBD985167"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9AC1CD45-BE04-4464-9D26-93A6AAA45D0C",
+      "overrideName": "7F7C2C62-3E4B-4647-A6BE-B7EB8F2FD1BE_symbolID",
+      "value": "EBFC53A1-C7B2-43D8-965A-3E7522B204CD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A201267-6126-43F8-93B5-E694C3CE1DB7",
+      "overrideName": "DA470FDD-93A3-4FAC-8562-8BBCA0E01455_stringValue",
+      "value": "DAYS"
+    }
+  ],
+  "overrides": {
+    "15FCF6AD-8479-4BFA-A6E9-614C3F47B90D": {
+      "symbolID": "782AEE2B-B997-4838-887D-5BCEBD985167"
+    },
+    "7F7C2C62-3E4B-4647-A6BE-B7EB8F2FD1BE": {
+      "symbolID": "EBFC53A1-C7B2-43D8-965A-3E7522B204CD"
+    },
+    "DA470FDD-93A3-4FAC-8562-8BBCA0E01455": "DAYS"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02FD19DF-B7F1-4531-8F6F-2CF30FA42CFE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BB230E13-BEC5-4316-B4F7-6BFC7AFBEF83",
+  "verticalSpacing": 0
+}

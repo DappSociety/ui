@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C784F40F-256E-494A-8B46-BDA640EFBA53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F650BF10-8BF2-4D58-8D9B-6CB423EC6AE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C61D5856-1922-49D2-AD4F-B9327768B1AC",
+    "height": 97,
+    "width": 939,
+    "x": 0,
+    "y": 55
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header/Heading",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "57BF4C16-0315-4AC9-8B5E-A2F98B2EE9EF",
+      "overrideName": "8DF3698A-94B9-4AC9-AF02-132BE96A3A6F_stringValue",
+      "value": "Bounties / View"
+    }
+  ],
+  "overrides": {
+    "8DF3698A-94B9-4AC9-AF02-132BE96A3A6F": "Bounties / View"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00233AF6-74C7-4709-A025-C8707CB39489",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "874409C4-B74C-4ED9-A4A0-5991525BDFBD",
+  "verticalSpacing": 0
+}

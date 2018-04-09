@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DD450C37-8C2A-4310-8F9B-0F393B1E8613",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E3863AA-F718-45F9-AE15-6BB28D4AE588",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "896BE4A1-9173-477E-A0CA-21BF6EA61AB6",
+    "height": 81,
+    "width": 248,
+    "x": 112,
+    "y": 249
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms/Textarea",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49C3B6A0-898F-4BB7-89CB-17DBE2F22CEA",
+      "overrideName": "E629D42F-CF08-4C43-8FCA-AE4ED4701473_stringValue",
+      "value": "Write a comment..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9BA0DE0-A204-4097-8860-CF2F499C8E27",
+      "overrideName": "61D4D7A3-4202-44A0-B75E-18C9B12B1B67_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "61D4D7A3-4202-44A0-B75E-18C9B12B1B67": " ",
+    "E629D42F-CF08-4C43-8FCA-AE4ED4701473": "Write a comment..."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55D0623B-0B85-4EF8-90EE-B5485246DC18",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ED2D5E3A-4CCE-4B4C-B840-DDD861C74B40",
+  "verticalSpacing": 0
+}

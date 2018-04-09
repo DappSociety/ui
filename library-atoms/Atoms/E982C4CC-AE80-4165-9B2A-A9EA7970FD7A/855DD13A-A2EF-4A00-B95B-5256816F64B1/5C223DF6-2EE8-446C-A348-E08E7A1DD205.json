@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5C223DF6-2EE8-446C-A348-E08E7A1DD205",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B4E6DD5-AE46-4ED0-857D-6496BF7FEF32",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BFD8CF0-E767-417B-B118-1F3CDE514C72",
+    "height": 30,
+    "width": 100,
+    "x": 98,
+    "y": 180
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/pill/icon/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5006AA00-3C40-40B4-B6B3-D1861C1899A7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0FC60099-1AC5-4A7D-8F97-AEABEC8FA00C",
+  "verticalSpacing": 0
+}

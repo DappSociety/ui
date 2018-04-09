@@ -27,8 +27,17 @@
   "name": "atom/text-input/focus",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F76D7193-9CCD-4E12-990D-D1E14EBFBF9D",
+      "overrideName": "9301FBFC-04F2-4412-8D41-9EC0E7182E2E_symbolID",
+      "value": ""
+    }
   ],
   "overrides": {
+    "9301FBFC-04F2-4412-8D41-9EC0E7182E2E": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

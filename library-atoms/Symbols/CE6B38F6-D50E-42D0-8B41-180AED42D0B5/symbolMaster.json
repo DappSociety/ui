@@ -7,7 +7,7 @@
     "green": 0.9254901960784314,
     "red": 0.9254901960784314
   },
-  "changeIdentifier": 538,
+  "changeIdentifier": 688,
   "do_objectID": "CE6B38F6-D50E-42D0-8B41-180AED42D0B5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,13 +23,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "41BB0403-AB43-42D3-885E-BBE761FF7187",
-    "height": 22,
-    "width": 22,
-    "x": -22,
+    "height": 15,
+    "width": 15,
+    "x": -90,
     "y": 64
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,14 +45,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "65591041-F2DB-4F4E-85EE-4AA18D7E2F83"
     }
   ],
-  "name": "color/grey-5",
+  "name": "color/grey-6",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

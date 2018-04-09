@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "11963D96-88C9-437F-9A98-AA92D8E797EA",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1867,
+  "do_objectID": "37A0A902-3782-4578-B38B-B99E445967F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75789F59-61C9-4438-8A39-E6E4BB1BFF01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "445A2FB6-771F-4ABB-B584-28BA70196A36",
+    "height": 4,
+    "width": 100,
+    "x": 1928,
+    "y": 431
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "52FEA3A1-4FDF-4D63-A40B-FB85377A5361",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "16A80916-B631-4E0E-A3C6-D48E5C19DF80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "018D01DE-4CFC-405C-9F97-2397CC03BDE5"
+    }
+  ],
+  "name": "ProgressBar",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00999537-40DC-466C-9388-79A2D4B8213B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D6FF43C1-FD71-43E7-99DD-CD9F55469EEF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1E560C67-FA01-4B80-A671-3F0436333499",
+    "guides": [
+    ]
+  }
+}

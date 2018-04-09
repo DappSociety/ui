@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ABFD24A6-E6ED-44E6-B0D3-4B5285FF3D52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E68072C-6838-4E9A-BF84-634E12628B58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6782D84-B7D2-4589-B982-FAF9868B23F9",
+    "height": 68,
+    "width": 118.4496124031008,
+    "x": 131.28165374677,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Duration",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CC729E4D-C828-4946-B5C4-40D43384452A_stringValue",
+      "value": "Deploy the Foo to the Bar"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6CFD5577-9D9C-4F84-A210-3DF5E493AFE7_stringValue",
+      "value": "Task Title"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8AA5DE40-B883-4F54-A44E-E04349C441FE/91712A77-9C9B-465D-A4E2-6CF1A52189EE_stringValue",
+      "value": "Details"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BF6D66B-B08A-470C-A45A-5317E9B1460D",
+      "overrideName": "041A4BDF-99DA-4CFE-B841-4EDB1A3D29BC_stringValue",
+      "value": "Length"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "74C2C808-7850-4643-A4DA-22A1AA7AB267",
+      "overrideName": "EB4A96A8-F826-4E9C-8C8E-88B9F369F053_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "041A4BDF-99DA-4CFE-B841-4EDB1A3D29BC": "Length",
+    "6CFD5577-9D9C-4F84-A210-3DF5E493AFE7": "Task Title",
+    "8AA5DE40-B883-4F54-A44E-E04349C441FE": {
+      "91712A77-9C9B-465D-A4E2-6CF1A52189EE": "Details"
+    },
+    "CC729E4D-C828-4946-B5C4-40D43384452A": "Deploy the Foo to the Bar",
+    "EB4A96A8-F826-4E9C-8C8E-88B9F369F053": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4510754-26BE-4E78-9BFE-0E8157D0BB6B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EA653568-1F0B-42A1-B508-D18A89821E87",
+  "verticalSpacing": 0
+}

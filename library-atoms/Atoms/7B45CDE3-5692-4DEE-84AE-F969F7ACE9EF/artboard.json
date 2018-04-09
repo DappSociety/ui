@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4054,
+    "height": 4713,
     "width": 1440,
     "x": -1029,
     "y": -197
@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -112,6 +112,18 @@
     },
     {
       "class": "symbolInstance",
+      "id": "641452A7-6389-4A62-9A9C-A6069C60DA4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D072E82-289F-4364-9BF8-6DC4CC98F661"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6F1A4AF-44C2-4122-808A-7C674AA8F24A"
+    },
+    {
+      "class": "symbolInstance",
       "id": "14672D06-1A07-469C-BDB7-5A6306458CD6"
     },
     {
@@ -132,6 +144,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "654078D2-8B7B-4A6B-90B3-3905408851F3"
+    },
+    {
+      "class": "symbolInstance",
       "id": "F5A0EF6E-CD34-4B50-B1FA-DDBE5D292CE6"
     },
     {
@@ -148,15 +164,59 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B7FFCEA8-23E3-4D25-A26B-B880776C7007"
+      "id": "CD13FE7D-42AE-4B4D-A896-F250DDFD4E64"
     },
     {
       "class": "symbolInstance",
-      "id": "31EE1C6B-9D6A-4BBD-9AC5-00A11E8E1546"
+      "id": "71C42F0C-8776-45D5-A6DF-224E384FBF8A"
     },
     {
       "class": "symbolInstance",
-      "id": "8F2B0AFB-D16F-4533-8E2C-029FA8535F29"
+      "id": "92262006-D7CD-45F2-A357-CB0BD84E67A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A850D30B-B8ED-4423-81F1-3EA922A329E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF49CC93-0BA3-407E-B340-A310FE144E14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C50F2913-D77A-4C0A-9991-6017D30F76E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1263D68-1CEE-4497-8721-EC8EAAC57E6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "252A3225-17EB-4039-8A15-70C1D13DA0DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F497EFE-F641-48DD-9A63-D096F1B65A93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6519749E-FDA8-4465-9F80-41823FBD3FF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D904392-609A-49FD-A22A-E92C2BCEF5F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DCAB2A5-632B-4C8E-A020-B477492A5AD5"
+    },
+    {
+      "class": "group",
+      "id": "064E162A-6DA1-4658-9624-EB7B0C2519B8"
+    },
+    {
+      "class": "group",
+      "id": "9EB0B172-1C81-4A2E-8F7A-953D10E752C1"
     }
   ],
   "name": "Typography, Colors, Icons",

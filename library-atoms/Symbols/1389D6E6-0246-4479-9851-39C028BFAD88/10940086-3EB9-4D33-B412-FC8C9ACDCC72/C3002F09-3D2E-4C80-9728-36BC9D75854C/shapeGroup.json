@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -41,7 +41,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "9E8E9944-2A6C-4DAF-9E24-7D52D3168481"
+    "sharedObjectID": "5CD9354D-330E-47F9-A289-B7115C5A2F59"
   },
   "windingRule": 1
 }

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "641458F9-BB99-4A20-BA8E-DDA6BBC872A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "968D95BD-3621-46BB-BD20-211B52B25071",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4DB161EB-06EC-4749-A218-06868010CAE7",
+    "height": 30,
+    "width": 80,
+    "x": 98,
+    "y": 60
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/pill/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A38CBC16-BDB7-4ABE-8FE2-42A8750B4BC1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "974613E5-EEA4-463F-8D4F-30F8263A39E0",
+  "verticalSpacing": 0
+}

@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 30,
     "width": 66,
     "x": 0,
     "y": 0
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -39,7 +39,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "323B6728-462B-448C-943D-54E6398F2B25"
+    "sharedObjectID": "974A475F-C12D-4D66-BB5A-94DD2FA674DB"
   },
   "windingRule": 1
 }

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B5193912-A786-4C8B-BD45-A48868676C5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0443E718-5377-4F3F-BC38-38F127048E51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55F652E0-64EF-47B2-BF34-71C706BB4FC6",
+    "height": 16,
+    "width": 15.9468438538206,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "social-icons/twitter",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BC0311B-3299-4F77-A895-E77A42E55F5A",
+      "overrideName": "BAC62402-B697-4CEF-88FA-E77C82797787_symbolID",
+      "value": "B31788EA-7B44-443E-93DE-97B2F7DE3A47"
+    }
+  ],
+  "overrides": {
+    "BAC62402-B697-4CEF-88FA-E77C82797787": {
+      "symbolID": "B31788EA-7B44-443E-93DE-97B2F7DE3A47"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "994DE1AE-4132-4EAB-AE4F-A492462AB939",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B947F73-5C5C-4629-A7AF-6248466E626D",
+  "verticalSpacing": 0
+}

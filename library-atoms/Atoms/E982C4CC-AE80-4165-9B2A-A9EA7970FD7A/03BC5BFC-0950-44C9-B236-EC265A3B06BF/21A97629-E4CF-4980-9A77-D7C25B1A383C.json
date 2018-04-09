@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "21A97629-E4CF-4980-9A77-D7C25B1A383C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "402242D0-858E-453B-89E9-C0B3332A0898",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B97AAB5B-C86D-4102-83C8-6CD7DC1CC2EE",
+    "height": 24,
+    "width": 159,
+    "x": 0,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/checkbox/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D133B306-324D-4F59-90D0-05D0CA17C2A6_stringValue",
+      "value": "Checkbox checked"
+    }
+  ],
+  "overrides": {
+    "D133B306-324D-4F59-90D0-05D0CA17C2A6": "Checkbox checked"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0D728E2-9160-4B20-AE37-979FB1B00630",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AED4C8A2-569F-41C8-A277-756248C3EFA0",
+  "verticalSpacing": 0
+}

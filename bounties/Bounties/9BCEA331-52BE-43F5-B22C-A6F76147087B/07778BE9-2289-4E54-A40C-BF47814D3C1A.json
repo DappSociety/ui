@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "07778BE9-2289-4E54-A40C-BF47814D3C1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68004DD4-64C6-4F6C-9CC2-A3B0F9C31353",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B2019319-F958-4EAC-8A87-579393BB6F8C",
+    "height": 25,
+    "width": 25,
+    "x": 82,
+    "y": 374
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Avatar Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8A7B9CDF-ED31-44BD-99B8-7C06E189F50B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3d777d9744c2da36d33509f3950db329170801b2",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "8A7B9CDF-ED31-44BD-99B8-7C06E189F50B": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/3d777d9744c2da36d33509f3950db329170801b2",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "559ECD3D-EAEF-49C9-B212-95FC8D9BC516",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1147E038-3B04-41DD-9025-42F6C1402E8A",
+  "verticalSpacing": 0
+}

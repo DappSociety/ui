@@ -27,8 +27,17 @@
   "name": "atom/text-input/disabled",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F187494-EE11-47B6-8299-DE70F455E694",
+      "overrideName": "DAA66128-E2E3-4A79-B2B7-F4D32F990A04_symbolID",
+      "value": ""
+    }
   ],
   "overrides": {
+    "DAA66128-E2E3-4A79-B2B7-F4D32F990A04": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

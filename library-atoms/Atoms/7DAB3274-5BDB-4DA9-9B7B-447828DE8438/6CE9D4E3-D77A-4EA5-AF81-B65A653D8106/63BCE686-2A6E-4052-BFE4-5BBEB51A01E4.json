@@ -32,9 +32,18 @@
       "do_objectID": "8B03D637-05FC-419D-A99D-3DA4519CAF3D",
       "overrideName": "7FCB9B33-5ED4-4A2F-94B8-D6E581173F3B/2E8A9AC6-E789-4E1C-991B-0970F47BEE3E_symbolID",
       "value": "DBC8649F-5872-4ED3-85C3-3831DC9CA422"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F87BA24-CE2B-4BE7-B2D0-1BAF66BCC088",
+      "overrideName": "0109A4D4-CF7E-4902-B1AC-70DCCA778C14_symbolID",
+      "value": ""
     }
   ],
   "overrides": {
+    "0109A4D4-CF7E-4902-B1AC-70DCCA778C14": {
+      "symbolID": ""
+    },
     "7FCB9B33-5ED4-4A2F-94B8-D6E581173F3B": {
       "2E8A9AC6-E789-4E1C-991B-0970F47BEE3E": {
         "symbolID": "DBC8649F-5872-4ED3-85C3-3831DC9CA422"

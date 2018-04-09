@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "2AC8FADD-5194-4A91-A4F9-AAEB9312F9F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26FC9E4B-E2F3-4ECA-B35B-FE4C2BD5BFFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "99970F76-40F3-4B6E-893E-9198450DE972",
+    "height": 28,
+    "width": 235,
+    "x": 4,
+    "y": 89
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "53C445D6-2E5E-47EE-8661-1442721A348C"
+    },
+    {
+      "class": "text",
+      "id": "9BFEC812-9543-42CA-90D9-67ADFDAC6F85"
+    }
+  ],
+  "name": "Actvity Entry Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0258BFD-AA49-41E3-BF17-128F212E7D7E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

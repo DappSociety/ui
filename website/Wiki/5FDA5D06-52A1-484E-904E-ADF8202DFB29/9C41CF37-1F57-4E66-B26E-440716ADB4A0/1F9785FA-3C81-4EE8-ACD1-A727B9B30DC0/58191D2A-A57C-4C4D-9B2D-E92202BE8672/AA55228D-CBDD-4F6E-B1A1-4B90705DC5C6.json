@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AA55228D-CBDD-4F6E-B1A1-4B90705DC5C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "255E9200-EBD0-4254-8FEB-A9EEF44FE01B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2407786-F16B-4E8A-9700-A2A4C58FF6D3",
+    "height": 16,
+    "width": 100,
+    "x": 13,
+    "y": 113
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SIdebar Link Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5364C443-A58C-428C-9603-C2232613EDEA",
+      "overrideName": "69245BFF-AD36-4F5A-99EF-41C697048D1E_stringValue",
+      "value": "Digest Archives"
+    }
+  ],
+  "overrides": {
+    "69245BFF-AD36-4F5A-99EF-41C697048D1E": "Digest Archives"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75CF43BB-A85D-4F95-83B4-64BF19EDB8A5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E6BBCE8-8884-45CE-9FF8-236CD71689E3",
+  "verticalSpacing": 0
+}

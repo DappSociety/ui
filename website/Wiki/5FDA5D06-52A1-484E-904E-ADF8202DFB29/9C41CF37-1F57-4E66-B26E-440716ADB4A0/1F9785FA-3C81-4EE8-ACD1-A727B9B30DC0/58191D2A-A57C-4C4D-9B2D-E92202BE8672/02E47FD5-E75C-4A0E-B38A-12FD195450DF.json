@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "02E47FD5-E75C-4A0E-B38A-12FD195450DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D76F83E-F979-4C73-BCF6-EE5C7E6499C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A66AC51C-4478-4D01-82BB-2F51E732448B",
+    "height": 16,
+    "width": 50,
+    "x": 13,
+    "y": 47
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SIdebar Link Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59A24AC8-F557-4308-9813-5B97EE59870E",
+      "overrideName": "69245BFF-AD36-4F5A-99EF-41C697048D1E_stringValue",
+      "value": "About"
+    }
+  ],
+  "overrides": {
+    "69245BFF-AD36-4F5A-99EF-41C697048D1E": "About"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA08E836-E40D-451C-88A8-F62B2C216A70",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E6BBCE8-8884-45CE-9FF8-236CD71689E3",
+  "verticalSpacing": 0
+}

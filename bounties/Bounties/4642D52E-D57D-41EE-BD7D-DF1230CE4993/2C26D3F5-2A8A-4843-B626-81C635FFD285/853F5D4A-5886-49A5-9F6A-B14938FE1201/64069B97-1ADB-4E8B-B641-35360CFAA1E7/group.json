@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "64069B97-1ADB-4E8B-B641-35360CFAA1E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5976DB4F-787F-4B6F-8A13-F6A49E824E9F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C34FFC90-4E9E-4CCD-8188-4A755C5AA954",
+    "height": 68,
+    "width": 382,
+    "x": 0,
+    "y": 553
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A512B7B2-3F08-479B-A90A-4CD2DAFDEABE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "595E2D26-F7A5-454F-875E-683C0A5B6BDD"
+    }
+  ],
+  "name": "Funding",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5022B3A8-0A9C-40D4-85E3-9DDB4291E5F8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

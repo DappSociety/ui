@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "23D1F5C3-187C-4C3B-94D3-CD8E10028E0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50C8597F-366F-4A1C-890D-938C1CB48E04",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B81A1AF4-AF5B-463A-AE0D-5BD1F27A601B",
+    "height": 13,
+    "width": 12,
+    "x": 0,
+    "y": 58
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C5E46E00-E948-450A-9428-75FF849F5B20"
+    }
+  ],
+  "name": "atom/checkbox/default",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07593B8C-6336-4043-BB31-90440AC7CB5E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

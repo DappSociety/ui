@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "0C1A94CD-E056-4622-8C56-D99D994CFDBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7D1F983-0E92-4C6D-8C21-9D8CA23B3567",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "11CD7A9A-A00D-4472-897F-7DCE85FFD475",
+    "height": 220,
+    "width": 903,
+    "x": 0,
+    "y": 87
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4816D7E1-BE49-4CF2-9CF7-E651955B1D5A"
+    },
+    {
+      "class": "text",
+      "id": "99C8839C-1B6A-4643-A6BD-58503E80CE37"
+    }
+  ],
+  "name": "Why Join Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C51B9B4-DA4D-4AAC-B404-88BF0D540631",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
