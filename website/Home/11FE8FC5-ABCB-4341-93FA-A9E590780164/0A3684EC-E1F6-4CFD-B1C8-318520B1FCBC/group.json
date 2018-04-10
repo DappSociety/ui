@@ -15,28 +15,40 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "247E5D16-CA32-4A25-BC0C-8A35ED2D0E84",
-    "height": 169,
+    "height": 358,
     "width": 903,
-    "x": 0,
-    "y": 2800
+    "x": 1,
+    "y": 6227
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "F06B0DB5-38F5-45CC-8847-03D32A91C9B3"
     },
     {
+      "class": "symbolInstance",
+      "id": "5DB6CE8D-7CD0-49B8-A0CC-93F57D02C5AD"
+    },
+    {
+      "class": "group",
+      "id": "55F1A13B-27BE-471E-BE45-9FD6FB8AD8BF"
+    },
+    {
       "class": "text",
-      "id": "90568D16-B33A-440A-ACDB-E224439C7FB4"
+      "id": "E687D2A6-A6A7-4F93-8BA4-2CE54796460C"
+    },
+    {
+      "class": "text",
+      "id": "55053379-E3A4-40F0-A49D-BAF35C971774"
     }
   ],
-  "name": "Donate",
+  "name": "Short on time",
   "nameIsFixed": true,
   "resizingConstraint": 15,
   "resizingType": 0,

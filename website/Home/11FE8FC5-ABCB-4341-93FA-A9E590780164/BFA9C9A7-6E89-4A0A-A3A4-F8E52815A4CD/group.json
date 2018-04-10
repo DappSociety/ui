@@ -18,47 +18,43 @@
     "height": 392,
     "width": 904,
     "x": 0,
-    "y": 760
+    "y": 754
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "8BB90E44-1247-49B9-B720-B2C508BB6BE1"
     },
     {
-      "class": "text",
-      "id": "43606207-55AE-4E6A-A549-02D8A0653041"
+      "class": "group",
+      "id": "F22818F5-399D-4B5B-AFFA-FC5DEB78B508"
     },
     {
-      "class": "text",
-      "id": "11F324C7-E4BD-4653-80E4-5C06DB017046"
+      "class": "group",
+      "id": "0C317794-4A45-43D0-8C49-372429846DE8"
     },
     {
-      "class": "text",
-      "id": "DFF5C510-738B-4A6C-9EFA-B273026173F0"
+      "class": "group",
+      "id": "8186959E-C02F-46F4-9EAB-7D9C5B368211"
     },
     {
-      "class": "text",
-      "id": "CBF422EB-B1A8-4869-A00D-B31B8BD6ADB7"
+      "class": "group",
+      "id": "A3DE6A53-1493-4C39-8825-82B217817544"
     },
     {
-      "class": "symbolInstance",
-      "id": "0F0E31A1-234C-45DD-B962-8C7443D27F3B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C9A0E253-69BA-4546-971C-26679CFAF3CB"
+      "class": "group",
+      "id": "0AFF6731-4CA6-458F-B2F8-49C566CB41A5"
     }
   ],
-  "name": "Home/Vision",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "name": "Core Beliefs",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

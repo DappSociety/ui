@@ -15,25 +15,29 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "652D7CA6-6153-4ED3-8ABB-54A06FFF06B8",
-    "height": 215,
+    "height": 280,
     "width": 903,
     "x": 0,
-    "y": 1500
+    "y": 3567
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "D04BBBB3-91D6-4FC7-8954-A4D9C209B5CF"
     },
     {
-      "class": "text",
-      "id": "07133C07-02D0-4AC6-B5A2-992BA15DF195"
+      "class": "group",
+      "id": "7FE24FF6-5F14-44B9-9687-5CC08FDD6443"
+    },
+    {
+      "class": "group",
+      "id": "2AC9F330-2A80-4F74-853F-8A09EB97FCAA"
     }
   ],
   "name": "Stats",

@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B2490236-A14E-45AB-84CA-CCC374E29ED7",
-    "height": 215,
+    "height": 280,
     "width": 903,
     "x": 0,
     "y": 0
@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "color/grey-5",
-  "nameIsFixed": false,
+  "name": "background",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

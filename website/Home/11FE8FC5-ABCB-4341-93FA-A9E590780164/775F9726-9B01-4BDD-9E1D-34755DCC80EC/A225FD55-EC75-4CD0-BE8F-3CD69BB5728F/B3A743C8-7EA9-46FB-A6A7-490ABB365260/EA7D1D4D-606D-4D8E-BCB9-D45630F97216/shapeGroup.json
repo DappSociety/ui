@@ -1,0 +1,105 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "EA7D1D4D-606D-4D8E-BCB9-D45630F97216",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24.32583333333332,
+    "width": 19.14166666666671,
+    "x": 0.2549999999999998,
+    "y": 0.4774999999999996
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "91F5C0CA-1715-48DC-A596-023DD55FAC7D"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B8C735A-1667-4595-841E-7BB53E60DC3D"
+    },
+    {
+      "class": "shapePath",
+      "id": "66D628A9-EDB5-4898-84A0-5115D54A3346"
+    }
+  ],
+  "name": "a",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5094471049194601, 0.014627796238566682}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.7843137254901961,
+                "green": 0.7843137254901961,
+                "red": 0.7843137254901961
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592156862745098,
+                "green": 0.592156862745098,
+                "red": 0.592156862745098
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5094471049194601, 0.99086019663594949}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

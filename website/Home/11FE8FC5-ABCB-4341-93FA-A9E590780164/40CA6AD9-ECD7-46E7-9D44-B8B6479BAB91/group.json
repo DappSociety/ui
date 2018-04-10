@@ -18,22 +18,30 @@
     "height": 348,
     "width": 903,
     "x": 0,
-    "y": 2237
+    "y": 5664
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "349007D1-4E6C-456F-89C9-81EDF6CC0CE6"
     },
     {
+      "class": "group",
+      "id": "44CAA198-EBAA-4E6A-A770-36911A0BBA64"
+    },
+    {
       "class": "text",
-      "id": "E05C741C-C01B-4A42-AECA-87FA9CFF4D94"
+      "id": "B42ADEFD-49DC-47DA-8212-06FB27C48E8D"
+    },
+    {
+      "class": "group",
+      "id": "59CE132F-4F52-4A29-B975-07014C228D6B"
     }
   ],
   "name": "Projects",

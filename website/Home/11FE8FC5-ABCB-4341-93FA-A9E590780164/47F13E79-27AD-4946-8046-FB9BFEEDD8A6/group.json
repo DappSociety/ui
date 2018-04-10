@@ -18,22 +18,22 @@
     "height": 215,
     "width": 903,
     "x": 0,
-    "y": 2585
+    "y": 6012
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "4AC93B7B-7B7D-400F-B79B-1E43D84F3389"
     },
     {
-      "class": "text",
-      "id": "AEBD9BA0-1D39-4100-AB3C-9B0D4FAC127B"
+      "class": "group",
+      "id": "2338E084-DB96-41E3-BE14-D6D8AF83AF7F"
     }
   ],
   "name": "Join",

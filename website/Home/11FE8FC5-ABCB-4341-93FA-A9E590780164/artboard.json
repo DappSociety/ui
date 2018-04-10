@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DD5BD97A-F617-4895-8B70-5F7808581508",
-    "height": 3113,
+    "height": 6727,
     "width": 903,
     "x": -2376,
     "y": -362
@@ -54,10 +54,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "9E88C82F-3356-4466-BC02-AE692EE90C17"
-    },
-    {
       "class": "group",
       "id": "0A3684EC-E1F6-4CFD-B1C8-318520B1FCBC"
     },
@@ -83,7 +79,11 @@
     },
     {
       "class": "group",
-      "id": "5E014594-9007-4A5D-90C2-4343CC023DAF"
+      "id": "775F9726-9B01-4BDD-9E1D-34755DCC80EC"
+    },
+    {
+      "class": "group",
+      "id": "891459B8-76CF-4027-8113-9140027BF992"
     },
     {
       "class": "group",
@@ -104,6 +104,10 @@
     {
       "class": "symbolInstance",
       "id": "86C91F67-A35D-4A68-B036-044619D8261A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E88C82F-3356-4466-BC02-AE692EE90C17"
     }
   ],
   "name": "Home",

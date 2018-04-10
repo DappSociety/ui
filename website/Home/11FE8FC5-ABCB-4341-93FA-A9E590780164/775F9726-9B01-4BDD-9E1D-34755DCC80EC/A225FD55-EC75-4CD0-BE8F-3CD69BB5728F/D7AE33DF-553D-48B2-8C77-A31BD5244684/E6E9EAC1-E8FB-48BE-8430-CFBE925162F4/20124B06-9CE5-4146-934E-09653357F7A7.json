@@ -1,0 +1,145 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "20124B06-9CE5-4146-934E-09653357F7A7",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0.8541666666666714,
+    "width": 1.196145348837209,
+    "x": 0,
+    "y": 31.13779166666664
+  },
+  "isClosed": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "O-path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 1,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 0.45700000000000074}",
+        "curveMode": 1,
+        "curveTo": "{1, 0.45700000000000074}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 0.45700000000000074}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.85714285714285721, 0}",
+        "curveMode": 1,
+        "curveTo": "{0.85714285714285721, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.85714285714285721, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.53499999999999659}",
+        "curveMode": 1,
+        "curveTo": "{0, 0.53499999999999659}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 0.53499999999999659}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.89321074964639324, 0.93499999999999517}",
+        "curveMode": 1,
+        "curveTo": "{0.89321074964639324, 0.93499999999999517}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.89321074964639324, 0.93499999999999517}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 0.45799999999999841}",
+        "curveMode": 1,
+        "curveTo": "{1, 0.45799999999999841}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 0.45799999999999841}"
+      }
+    ]
+  },
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.45700000000000074}",
+      "curveMode": 1,
+      "curveTo": "{1, 0.45700000000000074}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0.45700000000000074}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.85714285714285721, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.85714285714285721, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.85714285714285721, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.53499999999999659}",
+      "curveMode": 1,
+      "curveTo": "{0, 0.53499999999999659}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.53499999999999659}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.89321074964639324, 0.93499999999999517}",
+      "curveMode": 1,
+      "curveTo": "{0.89321074964639324, 0.93499999999999517}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.89321074964639324, 0.93499999999999517}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.45799999999999841}",
+      "curveMode": 1,
+      "curveTo": "{1, 0.45799999999999841}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0.45799999999999841}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

@@ -15,25 +15,33 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9EAB1878-50C1-4916-9DCE-1E97E6A82CFF",
-    "height": 215,
+    "height": 455,
     "width": 903,
     "x": 0,
-    "y": 2022
+    "y": 5181
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "7DABC636-86C2-4D02-AB3D-932819539D35"
     },
     {
-      "class": "text",
-      "id": "2557849A-85D9-4624-9941-D3AB7FF2394F"
+      "class": "group",
+      "id": "97A4A9D5-4A93-4B19-8F99-E738E5CDE873"
+    },
+    {
+      "class": "group",
+      "id": "B32211C6-E5FC-4884-88E4-E10F28257003"
+    },
+    {
+      "class": "group",
+      "id": "392D72CE-BDAF-4641-9DB3-1E0EDA36C829"
     }
   ],
   "name": "Skills",

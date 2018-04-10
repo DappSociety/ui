@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "57473B1A-0D51-4C8E-B3A1-21716A880F94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FAC27AB-E907-4A55-87AA-A1747956C87F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA629862-B82D-43C8-9D12-7FF45BF4A042",
+    "height": 398,
+    "width": 903,
+    "x": 0,
+    "y": 74
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2C89A623-6547-4F18-A368-E2B4A2265C2B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C33ACAA-C36A-4437-B3E8-32FF9BA0FA78"
+    },
+    {
+      "class": "text",
+      "id": "68B84A16-AF3F-44E3-BADE-10E9D184FC27"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0747A9A6-F04A-4BF8-B7FE-7A9A24C2E3D3"
+    },
+    {
+      "class": "text",
+      "id": "32754292-C261-481C-A677-2C8E4A94F896"
+    }
+  ],
+  "name": "Network & Collaborate",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6248D24-F4F2-4BAC-8698-136E1ED94E69",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

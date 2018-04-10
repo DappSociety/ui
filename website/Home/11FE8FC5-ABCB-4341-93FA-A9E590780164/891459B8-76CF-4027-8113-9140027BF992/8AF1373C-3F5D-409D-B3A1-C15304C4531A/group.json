@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "do_objectID": "8AF1373C-3F5D-409D-B3A1-C15304C4531A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49954E82-5074-4D67-B86E-1F60CF122A10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "97D5707E-71ED-4214-9AF4-DCA022F74A30",
+    "height": 1233,
+    "width": 903,
+    "x": 0,
+    "y": 472
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7FC1FBFB-2957-4964-9FC6-B59DCD9DFF21"
+    },
+    {
+      "class": "group",
+      "id": "33525130-F5DE-4FD7-AC2F-23C6C7AEE03E"
+    },
+    {
+      "class": "group",
+      "id": "06E2C4D7-9E85-4F41-BF83-79F6F8C918A5"
+    },
+    {
+      "class": "group",
+      "id": "8A5121CB-EFE6-4115-8CDF-50D74B4881C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84AECCBE-B7CD-4990-A8AA-AC4FC0F357A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CDF6419-2CDF-4FC2-90BF-9C43DF846BE2"
+    },
+    {
+      "class": "text",
+      "id": "E9907FC3-DA15-497D-808A-FE7F20F32B9B"
+    },
+    {
+      "class": "text",
+      "id": "A5EA5DB7-DB83-4921-A5E6-BFD6DBA9E40E"
+    },
+    {
+      "class": "bitmap",
+      "id": "0ADAC060-FBCC-4976-A95E-3EAF9C35D287"
+    },
+    {
+      "class": "text",
+      "id": "E7ECA906-B46F-4B1C-8823-79E8C9C95701"
+    },
+    {
+      "class": "text",
+      "id": "293C9B10-3FE2-472B-8A66-3A8431099A5C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "253C34E7-4003-4CDF-BA9A-5DD6915ED0A5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "501FED1F-40C3-424F-95B2-6CE85277BC30"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31F1CD96-EE58-424A-B488-FE53B01F6537"
+    }
+  ],
+  "name": "Create Value",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "702BD728-5381-475E-9962-3906081092FF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
