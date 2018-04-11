@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "do_objectID": "4ABFAEE1-FC12-42BC-9F8D-8EAFD2B60778",
     "height": 16,
-    "width": 120.5980066445183,
+    "width": 121,
     "x": 749.5016611295681,
     "y": 27
   },
@@ -50,7 +50,7 @@
   ],
   "name": "Social",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
