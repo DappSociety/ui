@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5931D8E5-BA0A-44CA-8EFD-6B2F08643CC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 257,
+    "width": 370,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "core-belief",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9666C34B-8AF0-433E-A879-C0A4B3D9B0CC_stringValue",
+      "value": "The World Needs Blockchain"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C8EECEF6-97AC-4356-8123-DA0F03224870_stringValue",
+      "value": "Blockchain can solve some of the world biggest problems, but the technology isn't quite ready yet. It could use a little help."
+    }
+  ],
+  "overrides": {
+    "9666C34B-8AF0-433E-A879-C0A4B3D9B0CC": "The World Needs Blockchain",
+    "C8EECEF6-97AC-4356-8123-DA0F03224870": "Blockchain can solve some of the world biggest problems, but the technology isn't quite ready yet. It could use a little help."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BB30F29F-6EEE-403C-811A-C6F8C75EE433",
+  "verticalSpacing": 0
+}

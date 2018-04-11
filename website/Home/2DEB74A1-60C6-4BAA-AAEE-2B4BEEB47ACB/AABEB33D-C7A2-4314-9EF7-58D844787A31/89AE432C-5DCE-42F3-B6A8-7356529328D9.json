@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "89AE432C-5DCE-42F3-B6A8-7356529328D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 960,
+    "x": 240,
+    "y": 29
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "section-heading/light-text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "689C8FC6-4A11-4613-89A2-D02136CF0419_stringValue",
+      "value": "Our core beliefs"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "578EC304-C00A-4662-82FF-82805EED4489",
+      "overrideName": "453945E2-A7A6-4A57-B76F-735F2690C51D_symbolID",
+      "value": "B92891B7-48C1-4A9D-89D8-574CF1BF66C9"
+    }
+  ],
+  "overrides": {
+    "453945E2-A7A6-4A57-B76F-735F2690C51D": {
+      "symbolID": "B92891B7-48C1-4A9D-89D8-574CF1BF66C9"
+    },
+    "689C8FC6-4A11-4613-89A2-D02136CF0419": "Our core beliefs"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C7EFCC05-A57C-460F-898F-C06ECEE32224",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "716066E8-2190-4DAD-93BD-11BB6EDE5CC0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 143,
+    "width": 196,
+    "x": 390,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "skill",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "775B6F1B-08B9-4D8B-BCEE-C75DB72193DE",
+      "overrideName": "17BEA3C4-E315-467F-81F5-D4E899DD6330_stringValue",
+      "value": "GraphQL"
+    }
+  ],
+  "overrides": {
+    "17BEA3C4-E315-467F-81F5-D4E899DD6330": "GraphQL"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3FE193FB-B216-4E68-BC62-8810317F37D3",
+  "verticalSpacing": 0
+}

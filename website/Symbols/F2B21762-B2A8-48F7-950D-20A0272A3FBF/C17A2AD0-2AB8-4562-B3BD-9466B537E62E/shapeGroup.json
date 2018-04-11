@@ -36,7 +36,7 @@
   ],
   "name": "Icon",
   "nameIsFixed": true,
-  "resizingConstraint": 45,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

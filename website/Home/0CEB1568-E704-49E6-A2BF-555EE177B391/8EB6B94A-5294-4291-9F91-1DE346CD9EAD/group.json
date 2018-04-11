@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "do_objectID": "131DD250-7258-4479-9237-AA524AA8A840",
     "height": 358,
-    "width": 1450,
+    "width": 1440,
     "x": 0,
     "y": 5887
   },
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",

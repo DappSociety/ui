@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "FFB7C25A-D108-47A9-A3EB-13CC6D368661",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 257,
+    "width": 1440,
+    "x": 0,
+    "y": 1705
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2C46D9E1-D776-41AB-A4FE-C49F3A97000B"
+    },
+    {
+      "class": "group",
+      "id": "7ED55749-7286-4D8A-A462-CA4AE1F3E811"
+    },
+    {
+      "class": "text",
+      "id": "2834E4A0-F99E-4437-A839-5B9F9B7E78AA"
+    },
+    {
+      "class": "text",
+      "id": "8F5C4AE2-770B-45A4-9FD7-8F363FE77A2B"
+    }
+  ],
+  "name": "Personal Success",
+  "nameIsFixed": true,
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DF19B0E3-B987-456D-A003-45AA65E7565C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 340,
+    "x": 550,
+    "y": 142
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/button/primary/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52E6D4A5-402F-4E9B-A522-64FF823A88C0",
+      "overrideName": "FE257DB7-2310-4B85-AA47-6926A27ECF07_stringValue",
+      "value": "Join DappSociety"
+    }
+  ],
+  "overrides": {
+    "FE257DB7-2310-4B85-AA47-6926A27ECF07": "Join DappSociety"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "561F1538-F2A2-4346-9499-C4987943DD6F",
+  "verticalSpacing": 0
+}

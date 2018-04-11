@@ -37,7 +37,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Heading",
   "nameIsFixed": true,
-  "resizingConstraint": 45,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

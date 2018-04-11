@@ -23,9 +23,10 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -510,
+    "base": 214,
     "do_objectID": "BBA7F313-59B0-4F14-8C72-44A054240026",
     "guides": [
+      417
     ]
   },
   "includeInCloudUpload": true,
@@ -38,8 +39,27 @@
     {
       "class": "artboard",
       "id": "0CEB1568-E704-49E6-A2BF-555EE177B391"
+    },
+    {
+      "class": "artboard",
+      "id": "2DEB74A1-60C6-4BAA-AAEE-2B4BEEB47ACB"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": false,
+    "horizontalOffset": 135,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1170
+  },
   "name": "Home",
   "nameIsFixed": true,
   "resizingConstraint": 63,

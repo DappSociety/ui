@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DA3A16F6-988C-42CC-A70F-3D0415A77A3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 257,
+    "width": 370,
+    "x": 399,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "core-belief",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9666C34B-8AF0-433E-A879-C0A4B3D9B0CC_stringValue",
+      "value": "Collaboration Trumps Competition"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C8EECEF6-97AC-4356-8123-DA0F03224870_stringValue",
+      "value": "New paradigms will enable open projects to triumph over closed projects every time. We are only limited by our desire and willingness to contribute."
+    }
+  ],
+  "overrides": {
+    "9666C34B-8AF0-433E-A879-C0A4B3D9B0CC": "Collaboration Trumps Competition",
+    "C8EECEF6-97AC-4356-8123-DA0F03224870": "New paradigms will enable open projects to triumph over closed projects every time. We are only limited by our desire and willingness to contribute."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BB30F29F-6EEE-403C-811A-C6F8C75EE433",
+  "verticalSpacing": 0
+}
