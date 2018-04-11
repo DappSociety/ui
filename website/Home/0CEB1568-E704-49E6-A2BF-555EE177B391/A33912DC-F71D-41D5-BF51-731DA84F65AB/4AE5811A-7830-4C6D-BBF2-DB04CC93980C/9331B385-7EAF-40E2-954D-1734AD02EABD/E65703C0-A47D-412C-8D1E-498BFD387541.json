@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E65703C0-A47D-412C-8D1E-498BFD387541",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DF5223E-349D-48EB-8F15-4D80EE15D3B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61C7C8A3-1075-46A0-A9D9-4C2801CE4908",
+    "height": 48,
+    "width": 48.00000000000005,
+    "x": 79.07969286334628,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/icon/social/github",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6BD1BC8E-DDD4-440B-8768-06D3215C00B9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "50AE5E3E-BC5E-4EF9-A782-364C1757C2A6",
+  "verticalSpacing": 0
+}

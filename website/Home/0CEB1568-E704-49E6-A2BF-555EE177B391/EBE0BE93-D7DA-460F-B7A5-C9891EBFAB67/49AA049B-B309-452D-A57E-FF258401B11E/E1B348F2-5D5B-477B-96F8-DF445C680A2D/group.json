@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "E1B348F2-5D5B-477B-96F8-DF445C680A2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6F2D6C0-CAC1-4679-892C-421FA3E4A7B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0CBBAFB3-6466-4B10-AF5B-9B01766B4B44",
+    "height": 363,
+    "width": 350,
+    "x": 800,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "92174646-7729-47D4-8BA7-A155BD935944"
+    },
+    {
+      "class": "text",
+      "id": "21802815-B49D-45A5-9FD2-FE02117383C6"
+    },
+    {
+      "class": "text",
+      "id": "8A7DAA96-B528-42B4-BA9B-C025A6CB39A6"
+    }
+  ],
+  "name": "Adoption",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "747F9E3B-48B3-4448-A591-18E69D7BC4E5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

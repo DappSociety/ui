@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E4384414-1029-44AC-9D6A-130110685907",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13E5C648-F781-4843-B8B9-1802A0A8C0E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBE7C2B0-082D-43CE-861E-76712F4456E8",
+    "height": 30,
+    "width": 30,
+    "x": 84,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "twitter",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CFA30AA-E4BE-4F39-A7E5-F18B78CEB5FE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "99D5A658-F7CB-4D3E-933A-F23EABC9BA37",
+  "verticalSpacing": 0
+}

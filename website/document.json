@@ -38452,7 +38452,7 @@
           "green": 1,
           "red": 1
         },
-        "changeIdentifier": 6929,
+        "changeIdentifier": 6979,
         "do_objectID": "A0CBE7A3-B3EB-4812-B701-054F3BDBC9E9",
         "exportOptions": {
           "_class": "exportOptions",
@@ -38575,7 +38575,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 0,
+            "layerListExpandedType": 2,
             "layers": [
               {
                 "_class": "symbolInstance",
@@ -38644,7 +38644,7 @@
                   "constrainProportions": false,
                   "do_objectID": "4ABFAEE1-FC12-42BC-9F8D-8EAFD2B60778",
                   "height": 16,
-                  "width": 120.5980066445183,
+                  "width": 121,
                   "x": 749.5016611295681,
                   "y": 27
                 },
@@ -38698,7 +38698,7 @@
                         "symbolID": "B31788EA-7B44-443E-93DE-97B2F7DE3A47"
                       }
                     },
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "scale": 1,
@@ -38756,7 +38756,7 @@
                         "symbolID": "B31788EA-7B44-443E-93DE-97B2F7DE3A47"
                       }
                     },
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "scale": 1,
@@ -38814,7 +38814,7 @@
                         "symbolID": "B31788EA-7B44-443E-93DE-97B2F7DE3A47"
                       }
                     },
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "scale": 1,
@@ -38872,7 +38872,7 @@
                         "symbolID": "B31788EA-7B44-443E-93DE-97B2F7DE3A47"
                       }
                     },
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "scale": 1,
@@ -38930,7 +38930,7 @@
                         "symbolID": "B31788EA-7B44-443E-93DE-97B2F7DE3A47"
                       }
                     },
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "scale": 1,
@@ -38948,7 +38948,7 @@
                 ],
                 "name": "Social",
                 "nameIsFixed": true,
-                "resizingConstraint": 63,
+                "resizingConstraint": 44,
                 "resizingType": 0,
                 "rotation": 0,
                 "shouldBreakMaskChain": false,
@@ -39019,7 +39019,7 @@
                     "symbolID": "B8C89EA1-42FB-4A8C-AF69-B59584A011ED"
                   }
                 },
-                "resizingConstraint": 63,
+                "resizingConstraint": 41,
                 "resizingType": 0,
                 "rotation": 0,
                 "scale": 1,
@@ -39293,7 +39293,7 @@
             ],
             "name": "Links",
             "nameIsFixed": true,
-            "resizingConstraint": 63,
+            "resizingConstraint": 41,
             "resizingType": 0,
             "rotation": 0,
             "shouldBreakMaskChain": false,
@@ -39339,7 +39339,7 @@
             ],
             "overrides": {
             },
-            "resizingConstraint": 63,
+            "resizingConstraint": 44,
             "resizingType": 0,
             "rotation": 0,
             "scale": 1,
@@ -39405,7 +39405,7 @@
           "green": 1,
           "red": 1
         },
-        "changeIdentifier": 6945,
+        "changeIdentifier": 6995,
         "do_objectID": "A0CBE7A3-B3EB-4812-B701-054F3BDBC9E9",
         "exportOptions": {
           "_class": "exportOptions",
@@ -39528,7 +39528,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 0,
+            "layerListExpandedType": 2,
             "layers": [
               {
                 "_class": "symbolInstance",
@@ -39597,7 +39597,7 @@
                   "constrainProportions": false,
                   "do_objectID": "4ABFAEE1-FC12-42BC-9F8D-8EAFD2B60778",
                   "height": 16,
-                  "width": 120.5980066445183,
+                  "width": 121,
                   "x": 749.5016611295681,
                   "y": 27
                 },
@@ -39651,7 +39651,7 @@
                         "symbolID": "BF72BB98-17F6-4FE9-B348-A6026477DDE2"
                       }
                     },
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "scale": 1,
@@ -39709,7 +39709,7 @@
                         "symbolID": "BF72BB98-17F6-4FE9-B348-A6026477DDE2"
                       }
                     },
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "scale": 1,
@@ -39767,7 +39767,7 @@
                         "symbolID": "BF72BB98-17F6-4FE9-B348-A6026477DDE2"
                       }
                     },
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "scale": 1,
@@ -39825,7 +39825,7 @@
                         "symbolID": "BF72BB98-17F6-4FE9-B348-A6026477DDE2"
                       }
                     },
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "scale": 1,
@@ -39883,7 +39883,7 @@
                         "symbolID": "BF72BB98-17F6-4FE9-B348-A6026477DDE2"
                       }
                     },
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "scale": 1,
@@ -39901,7 +39901,7 @@
                 ],
                 "name": "Social",
                 "nameIsFixed": true,
-                "resizingConstraint": 63,
+                "resizingConstraint": 44,
                 "resizingType": 0,
                 "rotation": 0,
                 "shouldBreakMaskChain": false,
@@ -39972,7 +39972,7 @@
                     "symbolID": "26233FBD-2B5A-46DE-910D-BFA8AFA5EE31"
                   }
                 },
-                "resizingConstraint": 63,
+                "resizingConstraint": 41,
                 "resizingType": 0,
                 "rotation": 0,
                 "scale": 1,
@@ -40246,7 +40246,7 @@
             ],
             "name": "Links",
             "nameIsFixed": true,
-            "resizingConstraint": 63,
+            "resizingConstraint": 41,
             "resizingType": 0,
             "rotation": 0,
             "shouldBreakMaskChain": false,
@@ -40292,7 +40292,7 @@
             ],
             "overrides": {
             },
-            "resizingConstraint": 63,
+            "resizingConstraint": 44,
             "resizingType": 0,
             "rotation": 0,
             "scale": 1,
@@ -95804,7 +95804,8 @@
   },
   "pages": [
     "Home",
-    "Wiki"
+    "Wiki",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

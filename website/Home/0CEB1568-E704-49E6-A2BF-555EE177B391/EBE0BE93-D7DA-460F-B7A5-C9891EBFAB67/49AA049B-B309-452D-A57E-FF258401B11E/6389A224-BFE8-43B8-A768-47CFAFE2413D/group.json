@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "6389A224-BFE8-43B8-A768-47CFAFE2413D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3007024D-0B78-4773-A92D-8535AF10A788",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2D6E6E6-9FCA-48F3-9B30-E1B08B022B7D",
+    "height": 363,
+    "width": 350,
+    "x": 400,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4504621B-E3E1-42E3-82FB-BD9894041EF7"
+    },
+    {
+      "class": "text",
+      "id": "3B32AEE8-163C-4B55-9B3A-D5AFC3E33753"
+    },
+    {
+      "class": "text",
+      "id": "8B027EB4-0E25-4A9D-AD7E-530354764F66"
+    }
+  ],
+  "name": "Leverage",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A6769D5-BCEC-4471-AF9D-48B365BE199A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

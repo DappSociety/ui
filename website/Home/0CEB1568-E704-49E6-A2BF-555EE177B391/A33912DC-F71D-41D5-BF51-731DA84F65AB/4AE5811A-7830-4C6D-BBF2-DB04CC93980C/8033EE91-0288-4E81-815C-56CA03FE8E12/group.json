@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "8033EE91-0288-4E81-815C-56CA03FE8E12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21169364-9FC7-4153-8E3B-FC2BC2278C7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9AADE95-43F4-4FF0-8509-B3BBEFFA6CBC",
+    "height": 155,
+    "width": 199,
+    "x": 467.0798582870376,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E7350806-183F-40E2-91B1-02EA473BB896"
+    },
+    {
+      "class": "text",
+      "id": "09F6D7E2-5F78-447B-808F-6D50B7E028FE"
+    },
+    {
+      "class": "text",
+      "id": "33C86BB9-E150-488C-AD3D-3250D5B0F895"
+    }
+  ],
+  "name": "Stat Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E45AACC4-F06E-410B-AEE8-47F198AB3039",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

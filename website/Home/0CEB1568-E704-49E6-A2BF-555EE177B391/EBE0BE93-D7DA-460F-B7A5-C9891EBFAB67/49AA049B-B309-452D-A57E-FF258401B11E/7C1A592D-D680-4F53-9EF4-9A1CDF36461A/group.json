@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "7C1A592D-D680-4F53-9EF4-9A1CDF36461A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24B1F651-EEF2-4307-8110-63AC4D0B35FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D06C761C-8F11-4D8A-9E80-90206DFA1EDC",
+    "height": 363,
+    "width": 350,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3C10410C-6968-453C-BEC5-615C5AB232A9"
+    },
+    {
+      "class": "text",
+      "id": "9A5543CF-BCC1-4462-8CC0-D9D22AB9E0F6"
+    },
+    {
+      "class": "text",
+      "id": "539BC117-8E5E-41EF-9CAE-B1E89A6FFB69"
+    }
+  ],
+  "name": "Ideas",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94E9ED38-8DB9-48C5-8013-F7A85998FF2C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

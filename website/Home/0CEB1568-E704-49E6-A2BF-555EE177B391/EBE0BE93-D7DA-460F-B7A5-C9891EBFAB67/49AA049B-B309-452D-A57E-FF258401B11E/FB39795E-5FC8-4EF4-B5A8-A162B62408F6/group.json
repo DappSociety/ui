@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "FB39795E-5FC8-4EF4-B5A8-A162B62408F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66558507-DB99-4B1F-8E97-6B01DBA6D5FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F54DAA1-5F90-48DE-8F6D-760F936BF83D",
+    "height": 363,
+    "width": 350,
+    "x": 800,
+    "y": 413
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "357C388B-C9CF-4840-ACC1-90208450C898"
+    },
+    {
+      "class": "text",
+      "id": "CD8AF53B-FF82-42A5-BF0F-DC4DE47F2CFD"
+    },
+    {
+      "class": "text",
+      "id": "BE3ED84A-3656-4272-BB9A-B72C9CFA4F86"
+    }
+  ],
+  "name": "Skills",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F72C750C-861E-4427-AFC6-0EB365B05EF3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
