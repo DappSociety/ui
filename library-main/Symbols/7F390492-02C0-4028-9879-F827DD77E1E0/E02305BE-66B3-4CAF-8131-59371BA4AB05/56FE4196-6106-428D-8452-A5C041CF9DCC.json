@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "56FE4196-6106-428D-8452-A5C041CF9DCC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 12,
+    "x": 47,
+    "y": 5
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom/icon/chevron/down",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6882FC2-D3DB-48F0-BA6C-1383FF4ACCA4",
+      "overrideName": "439420C5-9EC5-4911-9B73-D709960527AC_symbolID",
+      "value": "F99F4035-1B7D-4EB6-985E-8081FBAFE33E"
+    }
+  ],
+  "overrides": {
+    "439420C5-9EC5-4911-9B73-D709960527AC": {
+      "symbolID": "F99F4035-1B7D-4EB6-985E-8081FBAFE33E"
+    }
+  },
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5454545454545454,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.454545454545454,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4623B1CB-FB7B-4CC0-8E8B-160D3E59A665",
+  "verticalSpacing": 0
+}

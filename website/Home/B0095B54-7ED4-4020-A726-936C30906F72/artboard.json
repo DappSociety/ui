@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -55,14 +55,6 @@
       "id": "6392D3BF-3A8E-4D03-9EDE-DAB90E13A852"
     },
     {
-      "class": "symbolInstance",
-      "id": "6152115B-A3D9-4124-A64A-E0747B7571EA"
-    },
-    {
-      "class": "group",
-      "id": "53886071-613F-40D6-B951-740B5F7C661B"
-    },
-    {
       "class": "group",
       "id": "E3A2C333-2459-47E3-9DDF-3FD4633D364D"
     },
@@ -71,12 +63,24 @@
       "id": "CA6034A3-FFD7-4BC9-8541-0C982213CFF9"
     },
     {
+      "class": "shapeGroup",
+      "id": "5240DDE3-F70E-4C84-AE21-3DCA8C6975A1"
+    },
+    {
       "class": "group",
-      "id": "2C0676F7-9F82-41CB-BF60-DE3B492E9357"
+      "id": "1A62FDBE-DEF1-47DB-865A-9AE8D991BCF9"
     },
     {
       "class": "group",
       "id": "FC389A70-17E1-4903-8C51-645C2F398893"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D4D5641-88F5-4AF4-B116-1FA5559BB00E"
+    },
+    {
+      "class": "group",
+      "id": "4016C185-9DD6-4DAE-95B3-95600A6C546F"
     }
   ],
   "layout": {
@@ -90,7 +94,7 @@
     "gutterWidth": 30,
     "guttersOutside": false,
     "horizontalOffset": 135,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1170

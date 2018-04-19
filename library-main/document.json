@@ -1,0 +1,65 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.3570845723152161,
+        "red": 0.296398788690567
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.4853598837537384,
+        "red": 0.4382891414141414
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "34552f50-398d-11e8-ab43-c30c1f3a85b5",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49.3",
+    "build": 51167,
+    "version": 101
+  },
+  "pages": [
+    "Atoms",
+    "Molecules",
+    "Organisms",
+    "Symbols"
+  ],
+  "userInfo": {
+    "io.sigurd.sketch.sketch-style-libraries": {
+      "defaultLibraryID": "d09aa430-3c17-11e8-95d6-0f7e3ae1ded8",
+      "defaultMergeDuplicates": 1,
+      "defaultPushDeleteStyles": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3AE9A85D-F45E-4238-B370-DC2BBE215A3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94ABAD9A-0FA4-43E9-B126-872349720A19",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ACA1C0EC-7678-4419-BD75-A04BA2181335",
+    "height": 22,
+    "width": 105,
+    "x": 1122,
+    "y": 49
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/nav-link/white",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "83280FDE-14A1-4C94-9C3A-4F74CF2D5586_stringValue",
+      "value": "OUR TEAM"
+    }
+  ],
+  "overrides": {
+    "83280FDE-14A1-4C94-9C3A-4F74CF2D5586": "OUR TEAM"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2ADA6EC-70DB-4BB4-89BA-6F070447F3D2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A6183CC1-9E07-43AC-8E7D-061603B97A73",
+  "verticalSpacing": 0
+}
