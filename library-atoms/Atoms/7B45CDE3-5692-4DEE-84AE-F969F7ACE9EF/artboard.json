@@ -211,12 +211,36 @@
       "id": "1DCAB2A5-632B-4C8E-A020-B477492A5AD5"
     },
     {
-      "class": "group",
-      "id": "064E162A-6DA1-4658-9624-EB7B0C2519B8"
+      "class": "symbolInstance",
+      "id": "A96B686C-063A-4BCF-B57C-B7E5881C2D2B"
     },
     {
       "class": "group",
-      "id": "9EB0B172-1C81-4A2E-8F7A-953D10E752C1"
+      "id": "72C2BFEB-8CF6-42C0-8F88-4503BF1064EF"
+    },
+    {
+      "class": "group",
+      "id": "FF6EA6A3-6F32-44E6-AF2E-6F0F79F856A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1342E2B4-512D-461B-8AD5-FDE6EC0B31D2"
+    },
+    {
+      "class": "group",
+      "id": "C1F10A92-BF39-41D9-B3FA-34B55808A01D"
+    },
+    {
+      "class": "group",
+      "id": "F102E67C-0495-4C28-A79D-0BC3EFFAD52D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29F3DDC5-EE90-4DF6-95FD-B2BBBBB83A5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69A48F57-6BF5-4FA6-9C42-EF0CC56B2E23"
     }
   ],
   "name": "Typography, Colors, Icons",

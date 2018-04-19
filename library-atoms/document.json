@@ -52,5 +52,12 @@
   "pages": [
     "Atoms",
     "Symbols"
-  ]
+  ],
+  "userInfo": {
+    "io.sigurd.sketch.sketch-style-libraries": {
+      "defaultLibraryID": "d09aa430-3c17-11e8-95d6-0f7e3ae1ded8",
+      "defaultMergeDuplicates": 1,
+      "defaultPushDeleteStyles": 0
+    }
+  }
 }

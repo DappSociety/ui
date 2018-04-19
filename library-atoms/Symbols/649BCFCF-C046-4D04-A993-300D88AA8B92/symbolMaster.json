@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 665,
+  "changeIdentifier": 938,
   "do_objectID": "649BCFCF-C046-4D04-A993-300D88AA8B92",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
-    "width": 432,
+    "height": 91,
+    "width": 402,
     "x": 2911,
-    "y": 0
+    "y": 15
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,19 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "C8B7CDCA-992B-4B72-BBCC-2DA6D3E048F0"
+      "id": "C6910D3D-A5D8-4DB6-80C1-FB73FE093DC7"
     },
     {
-      "class": "group",
-      "id": "B915B1A7-F551-467D-9E48-30B7FC8E4BB0"
-    },
-    {
-      "class": "group",
-      "id": "54863216-2B86-4946-A6FC-AA97EA9CC98B"
+      "class": "symbolInstance",
+      "id": "3B0D9E60-0371-4285-8443-CDEFCBE3CBB5"
     }
   ],
   "name": "logo/horizontal",

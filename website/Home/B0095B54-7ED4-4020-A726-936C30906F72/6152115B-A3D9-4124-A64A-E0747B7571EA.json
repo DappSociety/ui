@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6152115B-A3D9-4124-A64A-E0747B7571EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "845E4F80-1034-4D88-BF46-C5A763004686",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30DD2299-235E-4607-AF65-7665B6F267CA",
+    "height": 62,
+    "width": 274,
+    "x": 135,
+    "y": 33
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo/horizontal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73430970-0CEB-4F66-92A8-8444C3398466",
+      "overrideName": "3B0D9E60-0371-4285-8443-CDEFCBE3CBB5/9CA3C896-8071-433F-B41B-07E4BA179D39_symbolID",
+      "value": "FBD2C528-64A5-43AB-AA7A-44B32477BC13"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9203EE87-C637-4F4D-9F5B-07838B5AF811",
+      "overrideName": "C6910D3D-A5D8-4DB6-80C1-FB73FE093DC7/75BBB4E4-6AE2-42CC-A81B-6AE2BEBB5FB4_symbolID",
+      "value": "FBD2C528-64A5-43AB-AA7A-44B32477BC13"
+    }
+  ],
+  "overrides": {
+    "3B0D9E60-0371-4285-8443-CDEFCBE3CBB5": {
+      "9CA3C896-8071-433F-B41B-07E4BA179D39": {
+        "symbolID": "FBD2C528-64A5-43AB-AA7A-44B32477BC13"
+      }
+    },
+    "C6910D3D-A5D8-4DB6-80C1-FB73FE093DC7": {
+      "75BBB4E4-6AE2-42CC-A81B-6AE2BEBB5FB4": {
+        "symbolID": "FBD2C528-64A5-43AB-AA7A-44B32477BC13"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.6813186813186813,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FD4E7E90-E9C7-4E53-AB0E-EE58C5A54D30",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.813186813186813,
+      "type": 0
+    },
+    "do_objectID": "A19FDB87-0B2C-452F-A5B1-726BA736094C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5B273DD0-C4FC-46F7-B70B-8E3B3EE03CC5",
+  "verticalSpacing": 0
+}

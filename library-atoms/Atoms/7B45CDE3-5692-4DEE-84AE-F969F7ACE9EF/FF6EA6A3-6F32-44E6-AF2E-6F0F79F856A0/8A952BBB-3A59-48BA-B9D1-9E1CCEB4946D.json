@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8A952BBB-3A59-48BA-B9D1-9E1CCEB4946D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22D7DA0E-B5F8-44B8-B265-F0F291AB155C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE1810AE-08A0-4E41-B264-F23EF73274BD",
+    "height": 91,
+    "width": 100,
+    "x": 15,
+    "y": 15
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo/logomark",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18485CD9-DF7D-4B86-B8BD-E4461A5F860E",
+      "overrideName": "9CA3C896-8071-433F-B41B-07E4BA179D39_symbolID",
+      "value": "F99F4035-1B7D-4EB6-985E-8081FBAFE33E"
+    }
+  ],
+  "overrides": {
+    "9CA3C896-8071-433F-B41B-07E4BA179D39": {
+      "symbolID": "F99F4035-1B7D-4EB6-985E-8081FBAFE33E"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "514D552F-3AF8-49BE-A712-A02076969CD5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "93289608-9069-46B3-B24E-6C85502ECC6C",
+  "verticalSpacing": 0
+}
