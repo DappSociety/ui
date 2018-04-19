@@ -43,14 +43,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3D649F7D-E88F-4375-B519-EA9F9079973A",
+    "do_objectID": "22513C4C-D74E-4C0B-90B6-481FE9020A7C",
     "endDecorationType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "023C109B-7916-4C20-B8EC-96B92B66C9B7",
+    "sharedObjectID": "E7174F15-D8AC-4574-B4C1-FAEB78017057",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CCEBCD4A-3386-4E52-A98A-91688F11525F",
       "encodedAttributes": {
         "MSAttributedStringColorDictionaryAttribute": {
           "alpha": 1,

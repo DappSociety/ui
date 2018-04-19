@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -41,7 +41,30 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "D379826F-9B15-4D14-8110-5E98005DC8E6"
+    "_class": "style",
+    "do_objectID": "C97FF7F8-3079-4776-B1BC-BCFDC21121B9",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.4853598837537384,
+          "red": 0.4382891414141414
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "D379826F-9B15-4D14-8110-5E98005DC8E6",
+    "startDecorationType": 0
   },
   "windingRule": 1
 }

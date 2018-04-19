@@ -41,8 +41,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "AFB97851-B6E0-470A-B1AE-AB7051191891",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "E9117486-701D-4619-B44D-29242B88BADF",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",

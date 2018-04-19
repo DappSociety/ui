@@ -32,22 +32,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "symbolMaster",
-      "id": "F2B21762-B2A8-48F7-950D-20A0272A3FBF"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "2BECA7BE-FE91-499C-9929-917E592EE114"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "8347D085-5EDE-46BC-9BE5-3F13BFBF462D"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "7E23514A-1930-4A91-AB19-05DA3CF5A890"
-    }
   ],
   "name": "Symbols",
   "nameIsFixed": false,

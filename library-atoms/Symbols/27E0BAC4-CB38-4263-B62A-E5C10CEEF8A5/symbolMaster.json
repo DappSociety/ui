@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3266,
+  "changeIdentifier": 3269,
   "do_objectID": "27E0BAC4-CB38-4263-B62A-E5C10CEEF8A5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,8 +26,8 @@
     "do_objectID": "3A7192B4-720D-4131-AB4C-811C34BC459C",
     "height": 22,
     "width": 22,
-    "x": 1416,
-    "y": 352
+    "x": 684,
+    "y": 122
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -57,7 +57,7 @@
       "id": "439420C5-9EC5-4911-9B73-D709960527AC"
     }
   ],
-  "name": "atom/icon/dropdown",
+  "name": "atom/icon/chevron/down",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
