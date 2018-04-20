@@ -1,9 +1,8 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "6AEECBF9-A432-472D-B583-09547839A59F",
+  "do_objectID": "00825386-8AFE-4CDD-88A6-4A4169AFEA9E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "24462D2A-CB0B-4965-974E-6AA4A07237C4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0A1FC26B-2862-4516-847D-FC63370E685D",
     "height": 50,
-    "width": 191,
-    "x": 100,
-    "y": 578
+    "width": 250,
+    "x": 236,
+    "y": 4871
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,17 +24,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom/button/primary/default",
+  "name": "atom/button/primary/large",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "FE257DB7-2310-4B85-AA47-6926A27ECF07_stringValue",
+      "overrideName": "83657149-94A8-4682-80F5-690A81B00BAE_stringValue",
       "value": "View our member directory"
     }
   ],
   "overrides": {
-    "FE257DB7-2310-4B85-AA47-6926A27ECF07": "View our member directory"
+    "83657149-94A8-4682-80F5-690A81B00BAE": "View our member directory"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,11 +43,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B7349850-5640-4369-9785-0217E72001B3",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "561F1538-F2A2-4346-9499-C4987943DD6F",
+  "symbolID": "A8BA573F-5B80-4C80-8E6D-ED095F8F2278",
   "verticalSpacing": 0
 }

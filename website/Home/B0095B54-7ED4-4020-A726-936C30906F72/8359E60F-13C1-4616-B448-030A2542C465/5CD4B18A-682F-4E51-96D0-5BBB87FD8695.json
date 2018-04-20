@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "E94ED17F-7000-4C5E-9838-58C05A41E19D",
+  "do_objectID": "5CD4B18A-682F-4E51-96D0-5BBB87FD8695",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D92F5629-2F3A-406E-A852-F28E01BD6256",
+    "do_objectID": "F13D8F0E-4F39-463D-B316-42334C3CA0E5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B510A4CE-B38B-4EE1-BC36-57230D5F4D15",
+    "do_objectID": "C656602A-F036-4302-8232-69D27177F9CC",
     "height": 50,
-    "width": 160,
-    "x": 180,
+    "width": 180,
+    "x": 0,
     "y": 266
   },
   "horizontalSpacing": 0,
@@ -26,17 +26,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom/button/secondary/default",
+  "name": "atom/button/secondary/large",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "98425BAD-53A1-41D2-A2F8-5BF44AB6FA0A_stringValue",
-      "value": "Join Now"
+      "do_objectID": "98CD33E3-9062-4AF9-A482-4C7424477E6E",
+      "overrideName": "83657149-94A8-4682-80F5-690A81B00BAE_stringValue",
+      "value": "Learn more"
     }
   ],
   "overrides": {
-    "98425BAD-53A1-41D2-A2F8-5BF44AB6FA0A": "Join Now"
+    "83657149-94A8-4682-80F5-690A81B00BAE": "Learn more"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,11 +46,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C250975E-A7AA-4F23-899A-8E9DEB76DF57",
+    "do_objectID": "B2E40DDA-2114-4C68-ADA2-6C9E7E8EECEA",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "3A0C08EE-DC17-4F65-905F-F6D876662350",
+  "symbolID": "A8BA573F-5B80-4C80-8E6D-ED095F8F2278",
   "verticalSpacing": 0
 }
