@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "5ED43B9C-5C8A-4AF0-8B5E-3ED644CAC8A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 750,
+    "width": 1170,
+    "x": 135,
+    "y": 4283
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "89C825E6-DDF0-48D6-A8FC-93C55FB67E82"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AEECBF9-A432-472D-B583-09547839A59F"
+    },
+    {
+      "class": "group",
+      "id": "B0AA6EDF-B7F1-4216-838D-64C83267F121"
+    }
+  ],
+  "name": "Map (from Aragon.one -- replace)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

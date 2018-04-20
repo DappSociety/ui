@@ -26,7 +26,8 @@
     "base": 214,
     "do_objectID": "BBA7F313-59B0-4F14-8C72-44A054240026",
     "guides": [
-      417
+      417,
+      4180
     ]
   },
   "includeInCloudUpload": true,
@@ -47,6 +48,22 @@
     {
       "class": "artboard",
       "id": "B0095B54-7ED4-4020-A726-936C30906F72"
+    },
+    {
+      "class": "group",
+      "id": "30E139FF-2169-4383-9A8E-4A567D206262"
+    },
+    {
+      "class": "group",
+      "id": "7776202E-B4DE-406E-9569-52557DA32187"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6EDFC23-F3E4-4F47-BD93-C766710405AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "857D17A6-25AF-40B7-90A1-429A977BE074"
     }
   ],
   "layout": {

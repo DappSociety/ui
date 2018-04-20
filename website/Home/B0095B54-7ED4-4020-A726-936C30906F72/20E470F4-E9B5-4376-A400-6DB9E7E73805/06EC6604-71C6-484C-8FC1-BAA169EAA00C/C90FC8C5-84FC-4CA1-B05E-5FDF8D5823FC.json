@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C90FC8C5-84FC-4CA1-B05E-5FDF8D5823FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B51366B-78CB-4F1C-ABCC-6102DB57E235",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCAB3679-288A-4FCF-83D6-E009A27EE1E6",
+    "height": 90,
+    "width": 370,
+    "x": 100,
+    "y": 240
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/feature-list/headline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4E9C120-BDEA-4135-9A59-F43293EBE895",
+      "overrideName": "1F0AC400-3ECF-4534-90EE-869B98EE3519_stringValue",
+      "value": "Grow your personal brand"
+    }
+  ],
+  "overrides": {
+    "1F0AC400-3ECF-4534-90EE-869B98EE3519": "Grow your personal brand"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37258CA1-17B6-42E7-8220-123DEA7BF009",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "36287595-0D20-443D-8422-C08D353ADDDB",
+  "verticalSpacing": 0
+}

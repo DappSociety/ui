@@ -394,11 +394,23 @@
     },
     {
       "class": "symbolMaster",
+      "id": "2C5BCEED-7C7D-446F-AC7A-3B52FC2E0255"
+    },
+    {
+      "class": "symbolMaster",
       "id": "7F390492-02C0-4028-9879-F827DD77E1E0"
     },
     {
       "class": "symbolMaster",
       "id": "AC1FA407-7D86-4F54-9FD1-EE00971F940F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "28C71399-FB5D-485F-865B-B8F8497579D0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8A9E85B5-88B0-4034-834F-4FA6BB11ACD8"
     },
     {
       "class": "symbolMaster",
@@ -411,6 +423,10 @@
     {
       "class": "symbolMaster",
       "id": "8AAB06F0-22A7-4C03-ABB6-6C04531CC7EA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8159B479-0D2F-4976-B645-32F1BF344744"
     }
   ],
   "name": "Symbols",

@@ -34,8 +34,8 @@
       "id": "24CA5502-C1BF-435F-952B-C6FAC7D120C9"
     }
   ],
-  "name": "Rectangle",
-  "nameIsFixed": false,
+  "name": "heaeder-bg",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

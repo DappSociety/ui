@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "65288CA5-BF03-44B6-A305-61DE43C03A20",
-    "height": 3134,
+    "height": 6549,
     "width": 1440,
     "x": 723,
     "y": -398
@@ -44,11 +44,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
+      "id": "CA6034A3-FFD7-4BC9-8541-0C982213CFF9"
+    },
+    {
+      "class": "shapeGroup",
       "id": "2E6D9E47-3A7A-42BE-A8D3-B9ABD654CF4A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14C2CFDC-C941-431D-9FF2-D777BFD30C54"
+    },
+    {
+      "class": "group",
+      "id": "8FB6635E-2581-44F5-AE7B-91C04AA4B748"
     },
     {
       "class": "group",
@@ -57,10 +69,6 @@
     {
       "class": "group",
       "id": "E3A2C333-2459-47E3-9DDF-3FD4633D364D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "CA6034A3-FFD7-4BC9-8541-0C982213CFF9"
     },
     {
       "class": "shapeGroup",
@@ -81,6 +89,50 @@
     {
       "class": "group",
       "id": "4016C185-9DD6-4DAE-95B3-95600A6C546F"
+    },
+    {
+      "class": "group",
+      "id": "3BBCAB96-0BDD-44BF-990A-EBCE316E3A75"
+    },
+    {
+      "class": "group",
+      "id": "20E470F4-E9B5-4376-A400-6DB9E7E73805"
+    },
+    {
+      "class": "group",
+      "id": "97D308B0-1FFA-4AD0-B5F0-DD771691249F"
+    },
+    {
+      "class": "group",
+      "id": "5ED43B9C-5C8A-4AF0-8B5E-3ED644CAC8A3"
+    },
+    {
+      "class": "text",
+      "id": "BEDAE957-778B-4110-9FEA-C2BEEC0317EC"
+    },
+    {
+      "class": "group",
+      "id": "B59E0D89-F2C5-4BB6-9B43-31229D174FAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9CC02E3-12FF-4426-84E0-A646F0BA5FDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C250CD5-D99D-4479-9290-40F2D6BC1CAC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DEA225E0-1F04-4495-8DA4-0052C0BCA5B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B06265C8-3F3B-4F92-9DDD-1D340149E742"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31E4A6BD-ED08-4401-B916-6CFFDC95091D"
     }
   ],
   "layout": {

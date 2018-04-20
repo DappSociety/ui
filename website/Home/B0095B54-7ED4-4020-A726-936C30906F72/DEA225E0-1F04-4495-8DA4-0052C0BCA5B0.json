@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DEA225E0-1F04-4495-8DA4-0052C0BCA5B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C7A0EA3-46DC-4AB6-8A44-3CE43D47FB61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0F6297D-0C5F-4D06-8FE1-7A600D527E69",
+    "height": 170,
+    "width": 170,
+    "x": 635,
+    "y": 5405
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/stats/icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "405C28D5-3326-4889-8FC4-C395D89B7633",
+      "overrideName": "BCBE109A-5576-4B1C-B506-DF1E903929D0_stringValue",
+      "value": "680"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31E858BC-2A16-43FD-9CEB-C3DDA3575FB4",
+      "overrideName": "9294305A-5F45-4146-8D90-7547D4F73DE7_stringValue",
+      "value": "Subscribers"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D87F556-17AF-4CBD-B3DF-F8CD3B78A87F",
+      "overrideName": "34DCA08B-7CB0-424A-A1DF-D0B12C0E5E59_symbolID",
+      "value": "BDCE4187-5E1B-4C18-979B-DAF2784D283F"
+    }
+  ],
+  "overrides": {
+    "34DCA08B-7CB0-424A-A1DF-D0B12C0E5E59": {
+      "symbolID": "BDCE4187-5E1B-4C18-979B-DAF2784D283F"
+    },
+    "9294305A-5F45-4146-8D90-7547D4F73DE7": "Subscribers",
+    "BCBE109A-5576-4B1C-B506-DF1E903929D0": "680"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8EC95B7-FD76-4E27-B81C-4EC451421320",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B1AA8490-98A5-4179-A612-15EFD3C4DB73",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9D26220C-95E6-4B5C-BF8E-B102E94542FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99639966-73BE-4552-A078-5CFEB434EBE5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFFE0DA4-1564-4955-9EF0-16C432215728",
+    "height": 90,
+    "width": 270,
+    "x": 0,
+    "y": 120
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/feature-list/headline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4E9C120-BDEA-4135-9A59-F43293EBE895",
+      "overrideName": "1F0AC400-3ECF-4534-90EE-869B98EE3519_stringValue",
+      "value": "Start a for-profit project"
+    }
+  ],
+  "overrides": {
+    "1F0AC400-3ECF-4534-90EE-869B98EE3519": "Start a for-profit project"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E853B04D-B0CD-4D01-B32B-BE0650C7C86D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "36287595-0D20-443D-8422-C08D353ADDDB",
+  "verticalSpacing": 0
+}

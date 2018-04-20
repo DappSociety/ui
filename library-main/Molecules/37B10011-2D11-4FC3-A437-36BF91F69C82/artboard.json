@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 1424,
     "width": 1440,
     "x": -570,
     "y": -362
@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -59,8 +59,40 @@
       "id": "986FC78A-0DED-448C-BBE6-819111B0D22A"
     },
     {
+      "class": "text",
+      "id": "8630912F-121C-4752-98F3-F09F0A407A02"
+    },
+    {
+      "class": "text",
+      "id": "7722B837-126B-46C2-AF8B-90DAF1CF61AC"
+    },
+    {
+      "class": "text",
+      "id": "6EF2BBAE-787A-49B4-93A1-8CA910ACF2ED"
+    },
+    {
+      "class": "text",
+      "id": "2CBCF2F6-CEB2-4E69-A5C5-A97678AC78EA"
+    },
+    {
       "class": "symbolInstance",
       "id": "3D38A2DD-0FF4-44EF-8F5F-3ABBD18A16CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A818B8A-9201-4A8B-B345-5B2B5574EDE3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83B1B99C-7749-4913-9205-143592A59A66"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46AC8DCC-4049-4338-A6F8-E403BB08E773"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9155C15F-A4CC-4092-8644-EE582A9D300F"
     }
   ],
   "name": "Desktop HD",

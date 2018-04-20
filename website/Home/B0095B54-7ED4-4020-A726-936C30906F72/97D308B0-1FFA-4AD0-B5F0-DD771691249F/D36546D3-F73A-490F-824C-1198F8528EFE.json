@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D36546D3-F73A-490F-824C-1198F8528EFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2AD739CE-D41D-44A5-B247-914CA1CA943A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0CCDD00-D12E-4335-8562-80FA9DB48938",
+    "height": 170,
+    "width": 170,
+    "x": 600,
+    "y": 477
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "organism/headline-list/numbered",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34908BB1-05AC-40CB-B5C7-C75463AB77A0",
+      "overrideName": "3C40D6B1-8DFD-4B9A-A65F-A1741FCEDFDE_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B29265E-E926-4F9F-922F-8568D2AAD8FA",
+      "overrideName": "38F751AF-2B7D-481B-A43F-788E91A6E5D4_stringValue",
+      "value": "Curated Research"
+    }
+  ],
+  "overrides": {
+    "38F751AF-2B7D-481B-A43F-788E91A6E5D4": "Curated Research",
+    "3C40D6B1-8DFD-4B9A-A65F-A1741FCEDFDE": "1"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2696CDEA-11FB-4DB8-99AC-CFA0E61901DA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5ABD19F6-16CE-495A-B6CB-44FCC8C7B53C",
+  "verticalSpacing": 0
+}
